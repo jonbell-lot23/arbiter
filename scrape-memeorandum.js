@@ -15,7 +15,7 @@ div.textContent));
   console.log(divContents);
 
   // Write divContents to output.txt
-  await fs.writeFile('output.txt', divContents.join('\n'));
+  await fs.writeFile('public/output.txt', divContents.join('\n'));
 
   await browser.close();
 })();
