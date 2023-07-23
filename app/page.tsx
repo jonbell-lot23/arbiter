@@ -5,8 +5,9 @@ export default function Page() {
 
   return (
     <div>
+      <div className="mt-3 ml-3 font-bold text-green-600">Memeorandum Lite</div>
       {data.map((item, index) => (
-        <div key={index} className="m-3 bg-gray-200">
+        <div key={index} className="m-3 text-sm">
           {item}
         </div>
       ))}
