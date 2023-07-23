@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to checkout
 
     - name: Setup Node.js environment
       uses: actions/setup-node@v2
@@ -42,4 +44,6 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Last update on ${timestamp}" || exit 0
-        git push
+        git push origin HEAD:main
+      env:
+        GIT_TOKEN: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to push
