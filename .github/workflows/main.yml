@@ -2,7 +2,7 @@ name: Run Playwright Script
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   run-script:
