@@ -7,7 +7,7 @@ export default function Page() {
     <div>
       <div className="mt-3 ml-3 font-bold text-green-600">Memeorandum Lite</div>
       {data.map((item, index) => (
-        <div key={index} className="m-3 text-sm">
+        <div key={index} className="m-3 text-md">
           {item}
         </div>
       ))}
