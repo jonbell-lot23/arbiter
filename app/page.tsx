@@ -15,7 +15,11 @@ export default function Page() {
         const summary = await generateSummary(prompt);
         tempSummaries.push(summary);
       }
-      setSummaries(tempSummaries);
+      setSummaries(
+        tempSummaries.filter(
+          (summary): summary is string => summary !== undefined
+        )
+      );
     };
     fetchSummaries();
   }, [data]);
