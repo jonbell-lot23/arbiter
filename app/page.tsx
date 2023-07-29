@@ -12,7 +12,7 @@ export default function Page() {
     const fetchSummaries = async () => {
       let tempSummaries: (string | undefined)[] = [];
       for (let i = 0; i < data.length; i++) {
-        const prompt = `Summarise this neutrally and in a news-oriented way. No drama, just news. Try to keep it to two sentences. ${data[i]}`;
+        const prompt = `Summarise this neutrally and in a news-oriented way. No drama. Try to keep it to two sentences. ${data[i]}`;
         const summary = await generateSummary(prompt);
         tempSummaries.push(summary);
       }
