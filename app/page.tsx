@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { generateSummary } from "./callOpenai";
 import outputText from "../public/output.json";
+console.log("API Key: ", process.env.NEXT_PUBLIC_OPENAI_API_KEY);
 
 export default function Page() {
   const data = outputText;
@@ -11,7 +12,7 @@ export default function Page() {
     const fetchSummaries = async () => {
       let tempSummaries: (string | undefined)[] = [];
       for (let i = 0; i < data.length; i++) {
-        const prompt = `Summarise this neutrally and in a news-oriented way. No drama, just news.  ${data[i]}`;
+        const prompt = `Summarise this neutrally and in a news-oriented way. No drama, just news. Try to keep it to two sentences. ${data[i]}`;
         const summary = await generateSummary(prompt);
         tempSummaries.push(summary);
       }
