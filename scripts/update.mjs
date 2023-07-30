@@ -1,4 +1,3 @@
-import { createClient } from "@supabase/supabase-js";
 import { readFileSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
@@ -15,10 +14,10 @@ async function urlExists(url) {
   return result;
 }
 
-async function insertUrl(url) {
+async function insertUrl(summary) {
   const result = await sql`
     INSERT INTO arbiter_v1 (url, summary_raw)
-    VALUES (${url}, '')
+    VALUES (${summary.url}, ${summary.text})
     RETURNING *
   `;
   return result;
@@ -32,17 +31,17 @@ async function main() {
 
   // Iterate over the data
   for (let i = 0; i < data.length; i++) {
-    const url = data[i]; // Adjust depending on your data structure
+    const summary = data[i];
 
-    urlExists(url)
+    urlExists(summary.url)
       .then((result) => {
         if (result.length > 0) {
-          console.log(`URL exists: ${url}`);
+          console.log(`URL exists: ${summary.url}`);
         } else {
-          console.log(`URL does not exist: ${url}`);
-          insertUrl(url)
+          console.log(`URL does not exist: ${summary.url}`);
+          insertUrl(summary)
             .then((insertResult) =>
-              console.log("Inserted new URL:", insertResult)
+              console.log("Inserted new URL:", insertResult[0].url)
             )
             .catch((insertErr) =>
               console.error("Error inserting new URL:", insertErr)
@@ -52,7 +51,5 @@ async function main() {
       .catch((err) => console.error(err));
   }
 }
-
-main();
 
 main();
