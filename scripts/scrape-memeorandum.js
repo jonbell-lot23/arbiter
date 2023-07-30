@@ -20,7 +20,7 @@ const fs = require("fs").promises; // Import the promises version of fs
 
   // Write divContents to output.json
   await fs.writeFile(
-    "../public/output.json",
+    "public/output.json",
     JSON.stringify(divContents, null, 2)
   );
 
