@@ -35,7 +35,7 @@ jobs:
       run: npx playwright install
 
     - name: Run script
-      run: node scrape-memeorandum.js
+      run: node scripts/scrape-memeorandum.js
 
     - name: Commit and push if it changed
       run: |
