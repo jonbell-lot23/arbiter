@@ -10,14 +10,17 @@ const fs = require("fs").promises; // Import the promises version of fs
   await page.waitForSelector("div.ii");
 
   const divContents = await page.$$eval("div.ii", (divs) =>
-    divs.map((div) => div.textContent)
+    divs.map((div) => ({
+      text: div.textContent,
+      url: div.querySelector("a") ? div.querySelector("a").href : null,
+    }))
   );
 
   console.log(divContents);
 
   // Write divContents to output.json
   await fs.writeFile(
-    "public/output.json",
+    "../public/output.json",
     JSON.stringify(divContents, null, 2)
   );
 
