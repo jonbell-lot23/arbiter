@@ -1,29 +1,33 @@
 "use client";
+
 import { useEffect, useState } from "react";
-import { generateSummary } from "./callOpenai";
-import outputText from "../public/output.json";
-console.log("API Key: ", process.env.NEXT_PUBLIC_OPENAI_API_KEY);
+import { createClient } from "@supabase/supabase-js";
+
+const supabaseUrl = "https://stmbjgygayliaaaqiqrz.supabase.co";
+const supabaseKey =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN0bWJqZ3lnYXlsaWFhYXFpcXJ6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY3ODA4MDMwMiwiZXhwIjoxOTkzNjU2MzAyfQ.nNXqdv0Z5uRSIEZ8mVEyXddieoyAjxrNdKFSMN_z_mU";
+const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default function Page() {
-  const data = outputText;
   const [summaries, setSummaries] = useState<string[]>([]);
 
   useEffect(() => {
     const fetchSummaries = async () => {
-      let tempSummaries: (string | undefined)[] = [];
-      for (let i = 0; i < data.length; i++) {
-        const prompt = `Summarise this neutrally and in a news-oriented way. No drama. Try to keep it to two sentences. People viewing it should understand the news story, so make sure it's not vague. ${data[i]}`;
-        const summary = await generateSummary(prompt);
-        tempSummaries.push(summary);
+      const { data, error } = await supabase
+        .from("arbiter_v1")
+        .select("summary_raw")
+        .order("id", { ascending: true });
+
+      if (error) {
+        console.error("Error fetching summaries:", error);
+        return;
       }
-      setSummaries(
-        tempSummaries.filter(
-          (summary): summary is string => summary !== undefined
-        )
-      );
+
+      setSummaries(data.map((item) => item.summary_raw));
     };
+
     fetchSummaries();
-  }, [data]);
+  }, []);
 
   return (
     <div>
