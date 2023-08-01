@@ -9,6 +9,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 console.log(process.env.NODE_ENV);
+console.log("---");
 console.log(process.env.NEXT_PUBLIC_PG_CONNECTION_STRING);
 
 const connectionString = process.env.NEXT_PUBLIC_PG_CONNECTION_STRING;
