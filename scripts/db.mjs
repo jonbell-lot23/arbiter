@@ -8,6 +8,7 @@ if (process.env.NODE_ENV !== "production") {
   config({ path: `${__dirname}/../.env.local` });
 }
 
+console.log(process.env.NODE_ENV);
 console.log(process.env.NEXT_PUBLIC_PG_CONNECTION_STRING);
 
 const connectionString = process.env.NEXT_PUBLIC_PG_CONNECTION_STRING;
