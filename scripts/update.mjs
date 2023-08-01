@@ -33,22 +33,24 @@ async function main() {
   for (let i = 0; i < data.length; i++) {
     const summary = data[i];
 
-    urlExists(summary.url)
-      .then((result) => {
-        if (result.length > 0) {
-          console.log(`URL exists: ${summary.url}`);
-        } else {
-          console.log(`URL does not exist: ${summary.url}`);
-          insertUrl(summary)
-            .then((insertResult) =>
-              console.log("Inserted new URL:", insertResult[0].url)
-            )
-            .catch((insertErr) =>
-              console.error("Error inserting new URL:", insertErr)
-            );
+    try {
+      const result = await urlExists(summary.url);
+
+      if (result.length > 0) {
+        console.log(`URL exists: ${summary.url}`);
+      } else {
+        console.log(`URL does not exist: ${summary.url}`);
+
+        try {
+          const insertResult = await insertUrl(summary);
+          console.log("Inserted new URL:", insertResult[0].url);
+        } catch (insertErr) {
+          console.error("Error inserting new URL:", insertErr);
         }
-      })
-      .catch((err) => console.error(err));
+      }
+    } catch (err) {
+      console.error(err);
+    }
   }
 }
 
