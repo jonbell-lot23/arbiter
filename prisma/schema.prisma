@@ -1,0 +1,95 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model bouquet2023 {
+  date        DateTime? @db.Timestamptz(6)
+  description String?
+  url         String?
+  username    String?
+  id          Int       @id @default(autoincrement())
+  emoji       String?
+}
+
+model bouquet {
+  id       String                 @id
+  date     String?
+  name     String?
+  detail   String?
+  url      String?
+  username String?
+  emoji    bouquet_emoji_lookup[]
+}
+
+model bouquet_emoji_lookup {
+  id        BigInt   @id @default(autoincrement())
+  name      String?  @db.VarChar
+  emoji     String?  @db.VarChar
+  bouquetId String?
+  bouquet   bouquet? @relation(fields: [bouquetId], references: [id])
+}
+
+model academia {
+  id         Int       @id @default(autoincrement())
+  created_at DateTime? @default(now()) @db.Timestamptz(6)
+  title      String?
+  body       String?
+}
+
+model firehose_Items {
+  id          Int      @id @default(autoincrement())
+  title       String
+  url         String   @unique
+  description String?
+  postdate    DateTime
+  source      String?
+}
+
+model Movie {
+  id           Int            @id @default(autoincrement())
+  title        String         @unique
+  MovieRatings MovieRatings[]
+}
+
+model MovieRatings {
+  id        Int     @id @default(autoincrement())
+  rating    Rating
+  rationale String?
+  userId    Int
+  movieId   Int
+  Movie     Movie   @relation(fields: [movieId], references: [id])
+  User      User    @relation(fields: [userId], references: [id])
+}
+
+model User {
+  id           Int            @id @default(autoincrement())
+  MovieRatings MovieRatings[]
+}
+
+model arbiter_v1 {
+  id                 BigInt    @id(map: "arbiter-v1_pkey") @default(autoincrement())
+  created_at         DateTime? @default(now()) @db.Timestamptz(6)
+  url                String?
+  summary_raw        String?
+  summary_translated String?
+}
+
+model cooking {
+  id         Int       @id @default(autoincrement())
+  created_at DateTime? @db.Timestamptz(6)
+  title      String?
+  body       String?
+}
+
+enum Rating {
+  Like
+  DidNotLike
+  Interested
+  NotInterested
+  Unsure
+}
