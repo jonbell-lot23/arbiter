@@ -79,7 +79,7 @@ async function main() {
       const result = await urlExists(summary.url);
 
       if (result.length > 0) {
-        console.log(`URL exists: ${summary.url}`);
+        // console.log(`URL exists: ${summary.url}`);
       } else {
         console.log(`URL does not exist: ${summary.url}`);
 
