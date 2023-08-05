@@ -10,7 +10,7 @@ const openaiKey = process.env.OPENAI_KEY;
 
 async function getTranslation(summaryText) {
   const instructions =
-    "Please summarise this line of text as a news headline: ";
+    "Please summarise this line of text as a news headline, in sentence case. Make sure it actually makes sense as a headline.";
   const response = await fetch(openaiEndpoint, {
     method: "POST",
     headers: {
