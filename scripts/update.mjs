@@ -71,6 +71,7 @@ async function main() {
 
       if (result.length > 0) {
         console.log(`URL exists: ${summary.url}`);
+        getTranslation("Tell me a joke");
       } else {
         console.log(`URL does not exist: ${summary.url}`);
 
