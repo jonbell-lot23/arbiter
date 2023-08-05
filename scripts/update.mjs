@@ -18,6 +18,7 @@ async function getTranslation(summaryText) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
+      model: "gpt-3.5-turbo",
       prompt: instructions + summaryText,
       max_tokens: 60,
     }),
