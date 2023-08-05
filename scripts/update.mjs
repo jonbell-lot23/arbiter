@@ -19,7 +19,7 @@ async function getTranslation(summaryText) {
     },
     body: JSON.stringify({
       model: "gpt-3.5-turbo",
-      prompt: instructions + summaryText,
+      messages: instructions + summaryText,
       max_tokens: 60,
     }),
   });
