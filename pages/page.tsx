@@ -15,10 +15,10 @@ export default function HelloWorld() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const { data } = await supabase
+      const { data, error } = await supabase
         .from("posts")
         .select("*")
-        .orderBy("id", { ascending: true });
+        .order("id", { ascending: true });
       setPosts(data || []);
     };
 
