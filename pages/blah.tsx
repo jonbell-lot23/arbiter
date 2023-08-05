@@ -3,9 +3,6 @@ import { NextPage } from "next";
 import Head from "next/head";
 import { PrismaClient, academia } from "@prisma/client";
 import styles from "../styles/blog.module.css";
-import ReactMarkdown from "react-markdown";
-import Image from "next/image";
-import rehypeRaw from "rehype-raw";
 
 interface Props {
   posts: academiaWithDate[];
@@ -49,14 +46,7 @@ const Home: NextPage<Props> = ({ posts }) => {
       </Head>
       <div className="max-w-screen-md min-h-screen mx-auto">
         <div className="px-4 py-8 mx-auto">
-          <h1 className="mb-8 text-4xl font-bold text-center">
-            <Image
-              src="/academia_masthead.png"
-              alt="Academia Masthead Image"
-              width={1200}
-              height={200}
-            />
-          </h1>
+          <h1 className="mb-8 text-4xl font-bold text-center">Header</h1>
           <div className="grid gap-4 mx-auto prose">
             {sortedPosts.map((post) => (
               <div
@@ -71,9 +61,7 @@ const Home: NextPage<Props> = ({ posts }) => {
                     ""
                   )}
                 </div>
-                <ReactMarkdown rehypePlugins={[rehypeRaw]}>
-                  {post.body}
-                </ReactMarkdown>
+                {post.body}
               </div>
             ))}
           </div>
