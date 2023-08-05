@@ -25,7 +25,9 @@ export async function getStaticProps() {
         id: post.id,
         title: post.title,
         body: post.body,
-        created_at: new Date(post.created_at).toISOString(),
+        created_at: post.created_at
+          ? new Date(post.created_at).toISOString()
+          : null,
       })),
     },
   };
