@@ -25,6 +25,12 @@ async function getTranslation(summaryText) {
   });
 
   const data = await response.json();
+
+  if (!data.choices) {
+    console.error("Unexpected response from OpenAI API:", data);
+    throw new Error("Unexpected response from OpenAI API");
+  }
+
   return data.choices[0].text.trim();
 }
 
@@ -72,6 +78,7 @@ async function main() {
       if (result.length > 0) {
         console.log(`URL exists: ${summary.url}`);
         getTranslation("Tell me a joke");
+        console.log("GPT called");
       } else {
         console.log(`URL does not exist: ${summary.url}`);
 
