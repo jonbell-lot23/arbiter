@@ -19,7 +19,9 @@ async function getTranslation(summaryText) {
     },
     body: JSON.stringify({
       model: "gpt-3.5-turbo",
-      messages = [{"role": "user", "content": "What's the weather like in Boston?"}],
+      messages: [
+        { role: "user", content: "What's the weather like in Boston?" },
+      ],
       max_tokens: 60,
     }),
   });
