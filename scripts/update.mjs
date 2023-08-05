@@ -29,12 +29,16 @@ async function getTranslation(summaryText) {
 
   const data = await response.json();
 
-  if (!data.choices || !data.choices[0].text) {
+  if (
+    !data.choices ||
+    !data.choices[0].message ||
+    !data.choices[0].message.content
+  ) {
     console.error("Unexpected response from OpenAI API:", data);
     throw new Error("Unexpected response from OpenAI API");
   }
 
-  return data.choices[0].text.trim();
+  return data.choices[0].message.content.trim();
 }
 
 async function urlExists(url) {
