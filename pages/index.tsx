@@ -1,30 +1,32 @@
 import { useState, useEffect } from "react";
 import { NextPage } from "next";
 import Head from "next/head";
-import { PrismaClient, academia } from "@prisma/client";
+import { PrismaClient, arbiter_v1 } from "@prisma/client";
+import ReactMarkdown from "react-markdown";
 import styles from "../styles/blog.module.css";
 
 interface Props {
-  posts: academiaWithDate[];
+  posts: arbiter_v1WithDate[];
 }
 
-interface academiaWithDate extends academia {
+interface arbiter_v1WithDate extends arbiter_v1 {
   created_at: Date;
 }
 
 const prisma = new PrismaClient();
 
 export async function getStaticProps() {
-  const posts = await prisma.academia.findMany({
+  const posts = await prisma.arbiter_v1.findMany({
     orderBy: { id: "asc" },
   });
 
   return {
     props: {
       posts: posts.map((post) => ({
-        id: post.id,
-        title: post.title,
-        body: post.body,
+        id: Number(post.id),
+        url: post.url,
+        summary_raw: post.summary_raw,
+        summary_translated: post.summary_translated,
         created_at: post.created_at
           ? new Date(post.created_at).toISOString()
           : null,
@@ -34,7 +36,7 @@ export async function getStaticProps() {
 }
 
 const Home: NextPage<Props> = ({ posts }) => {
-  const [sortedPosts, setSortedPosts] = useState<academia[]>([]);
+  const [sortedPosts, setSortedPosts] = useState<arbiter_v1[]>([]);
 
   useEffect(() => {
     setSortedPosts(posts);
@@ -43,11 +45,11 @@ const Home: NextPage<Props> = ({ posts }) => {
   return (
     <>
       <Head>
-        <title>Jon&apos;s Adventures in Academia</title>
+        <title>Jon's Adventures in Academia</title>
         <meta name="description" content="Jon's Adventures in Academia" />
       </Head>
-      <div className="max-w-screen-md min-h-screen mx-auto">
-        <div className="px-4 py-8 mx-auto">
+      <div className="max-w-screen-md min-h-screen mx-auto bg-red-500">
+        <div className="px-4 py-8 mx-auto text-center">
           <h1 className="mb-8 text-4xl font-bold text-center">Header</h1>
           <div className="grid gap-4 mx-auto prose">
             {sortedPosts.map((post) => (
@@ -55,15 +57,9 @@ const Home: NextPage<Props> = ({ posts }) => {
                 key={post.id}
                 className="p-4 transition-all duration-300 rounded-lg"
               >
-                <h2 className="mb-2 text-3xl font-bold">{post.title}</h2>
-                <div className="mb-4 text-gray-600">
-                  {post.created_at ? (
-                    <div>{new Date(post.created_at).toLocaleDateString()}</div>
-                  ) : (
-                    ""
-                  )}
-                </div>
-                {post.body}
+                <ReactMarkdown className="mx-auto prose prose-lg">
+                  {post.summary_raw}
+                </ReactMarkdown>
               </div>
             ))}
           </div>
