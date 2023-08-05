@@ -7,7 +7,7 @@ import fetch from "node-fetch";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const openaiEndpoint =
   "https://api.openai.com/v1/engines/davinci-codex/completions";
-const openaiKey = "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";
+const openaiKey = process.env.OPENAI_KEY;
 
 async function getTranslation(summaryText) {
   const instructions =
