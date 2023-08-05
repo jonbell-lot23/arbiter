@@ -58,7 +58,7 @@ const Home: NextPage<Props> = ({ posts }) => {
                 className="p-4 transition-all duration-300 rounded-lg"
               >
                 <ReactMarkdown className="mx-auto prose prose-lg">
-                  {post.summary_raw}
+                  {post.summary_raw ? post.summary_raw : ""}
                 </ReactMarkdown>
               </div>
             ))}
