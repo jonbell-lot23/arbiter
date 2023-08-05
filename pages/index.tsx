@@ -60,11 +60,15 @@ const Home: NextPage<Props> = ({ posts }) => {
                 key={post.id.toString()}
                 className="p-4 transition-all duration-300 rounded-lg"
               >
-                <ReactMarkdown className="mx-auto text-sm prose prose-lg">
-                  {post.summary_translated
-                    ? post.summary_translated
-                    : post.summary_raw}
-                </ReactMarkdown>
+                <ReactMarkdown
+                  className="mx-auto text-sm prose prose-lg"
+                  // eslint-disable-next-line react/no-children-prop
+                  children={
+                    post.summary_translated
+                      ? post.summary_translated
+                      : post.summary_raw
+                  }
+                />
               </div>
             ))}
           </div>
