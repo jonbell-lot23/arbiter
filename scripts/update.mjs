@@ -20,7 +20,8 @@ async function getTranslation(summaryText) {
     body: JSON.stringify({
       model: "gpt-3.5-turbo",
       messages: [
-        { role: "user", content: "What's the weather like in Boston?" },
+        { role: "system", content: instructions },
+        { role: "user", content: summaryText },
       ],
       max_tokens: 60,
     }),
@@ -28,7 +29,7 @@ async function getTranslation(summaryText) {
 
   const data = await response.json();
 
-  if (!data.choices) {
+  if (!data.choices || !data.choices[0].text) {
     console.error("Unexpected response from OpenAI API:", data);
     throw new Error("Unexpected response from OpenAI API");
   }
