@@ -1,9 +1,9 @@
 name: Push to DB
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '*/6 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
