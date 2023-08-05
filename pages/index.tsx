@@ -3,7 +3,7 @@ import { NextPage } from "next";
 import Head from "next/head";
 import { PrismaClient, arbiter_v1 } from "@prisma/client";
 import ReactMarkdown from "react-markdown";
-import styles from "../styles/blog.module.css";
+import "../app/globals.css";
 
 interface Props {
   posts: arbiter_v1WithDate[];
@@ -17,7 +17,8 @@ const prisma = new PrismaClient();
 
 export async function getStaticProps() {
   const posts = await prisma.arbiter_v1.findMany({
-    orderBy: { id: "asc" },
+    orderBy: { id: "desc" },
+    take: 50,
   });
 
   return {
@@ -48,16 +49,18 @@ const Home: NextPage<Props> = ({ posts }) => {
         <title>Arbiter</title>
         <meta name="description" content="Arbiter" />
       </Head>
-      <div className="max-w-screen-md min-h-screen mx-auto bg-red-500">
-        <div className="px-4 py-8 mx-auto text-center">
-          <h1 className="mb-8 text-4xl font-bold text-center">Header</h1>
-          <div className="grid gap-4 mx-auto prose">
+      <div className="max-w-screen-md min-h-screen mx-auto">
+        <div className="px-4 py-8 mx-auto text-left">
+          <h1 className="mb-8 text-2xl font-bold text-center">
+            Arbiter: Politics
+          </h1>
+          <div className="grid gap-1 mx-auto prose">
             {sortedPosts.map((post) => (
               <div
                 key={post.id.toString()}
                 className="p-4 transition-all duration-300 rounded-lg"
               >
-                <ReactMarkdown className="mx-auto prose prose-lg">
+                <ReactMarkdown className="mx-auto text-sm prose prose-lg">
                   {post.summary_raw ? post.summary_raw : ""}
                 </ReactMarkdown>
               </div>
