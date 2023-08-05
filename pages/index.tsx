@@ -54,7 +54,7 @@ const Home: NextPage<Props> = ({ posts }) => {
           <div className="grid gap-4 mx-auto prose">
             {sortedPosts.map((post) => (
               <div
-                key={post.id}
+                key={post.id.toString()}
                 className="p-4 transition-all duration-300 rounded-lg"
               >
                 <ReactMarkdown className="mx-auto prose prose-lg">
