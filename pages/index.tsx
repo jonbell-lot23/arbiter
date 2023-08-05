@@ -45,8 +45,8 @@ const Home: NextPage<Props> = ({ posts }) => {
   return (
     <>
       <Head>
-        <title>Jon's Adventures in Academia</title>
-        <meta name="description" content="Jon's Adventures in Academia" />
+        <title>Arbiter</title>
+        <meta name="description" content="Arbiter" />
       </Head>
       <div className="max-w-screen-md min-h-screen mx-auto bg-red-500">
         <div className="px-4 py-8 mx-auto text-center">
