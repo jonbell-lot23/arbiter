@@ -10,7 +10,7 @@ const openaiKey = process.env.OPENAI_KEY;
 
 async function getTranslation(summaryText) {
   const instructions =
-    "Please summarise this line of text as a news headline, in sentence case. Make sure it actually makes sense as a headline.";
+    "You are a neutral and helpful news headline aggregtor. Please summarise this headline and the following snippet into something clear and understandable in one or two sentences, one sentence if possible. Try to remove inflammitory or biased language like slammed or outragous. Your goal is not to editorialise, but to provide a clear and concise news summary for easy understanding. Some of these headlines will be written in a clickbait style that requries you to click to learn more. If you spot something like that, do your best to neutralise it by saying something like 'An article encouraging you to click to learn about...'.";
   const response = await fetch(openaiEndpoint, {
     method: "POST",
     headers: {
