@@ -66,7 +66,7 @@ const Home: NextPage<Props> = ({ posts }) => {
                   children={
                     post.summary_translated
                       ? post.summary_translated
-                      : post.summary_raw
+                      : post.summary_raw || ""
                   }
                 />
               </div>
