@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { supabase } from "../api/supabase";
+import { supabase } from "./api/supabase";
 
 type Post = {
   id: number;
