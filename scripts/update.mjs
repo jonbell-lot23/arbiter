@@ -95,7 +95,7 @@ async function main() {
       pendingUrls = pendingUrls.filter((url) => url !== summary.url);
 
       console.log(`Remaining URLs: ${pendingUrls.length}`);
-      console.log(`Pending URLs:`, pendingUrls);
+      // console.log(`Pending URLs:`, pendingUrls);
 
       // If there are no more pending URLs, terminate the script
       if (pendingUrls.length === 0) {
