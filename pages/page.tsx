@@ -1,26 +1,38 @@
 "use client";
-import { useEffect, useState } from "react";
-import { PrismaClient } from "@prisma/client";
 
-const prisma = new PrismaClient();
+import { useState, useEffect } from "react";
+import { supabase } from "../api/supabase";
 
-export default function Page() {
-  const [posts, setPosts] = useState([]);
+type Post = {
+  id: number;
+  created_at: Date | null;
+  title: string | null;
+  body: string | null;
+};
+
+export default function HelloWorld() {
+  const [posts, setPosts] = useState<Post[]>([]);
 
   useEffect(() => {
     const fetchData = async () => {
-      const data = await prisma.academia.findMany({
-        orderBy: { id: "asc" },
-      });
-      setPosts(data);
+      const { data } = await supabase
+        .from("posts")
+        .select("*")
+        .orderBy("id", { ascending: true });
+      setPosts(data || []);
     };
+
     fetchData();
   }, []);
 
   return (
     <div>
+      <h1>Hello World!</h1>
       {posts.map((post) => (
-        <div key={post.id}>{/* Render your post here */}</div>
+        <div key={post.id}>
+          <h2>{post.title}</h2>
+          <p>{post.body}</p>
+        </div>
       ))}
     </div>
   );
