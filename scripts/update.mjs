@@ -2,8 +2,31 @@ import { readFileSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import sql from "./db.mjs";
+import fetch from "node-fetch";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+const openaiEndpoint =
+  "https://api.openai.com/v1/engines/davinci-codex/completions";
+const openaiKey = "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";
+
+async function getTranslation(summaryText) {
+  const instructions =
+    "Please summarise this line of text as a news headline: ";
+  const response = await fetch(openaiEndpoint, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${openaiKey}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      prompt: instructions + summaryText,
+      max_tokens: 60,
+    }),
+  });
+
+  const data = await response.json();
+  return data.choices[0].text.trim();
+}
 
 async function urlExists(url) {
   console.log(`Checking if URL exists: ${url}`);
@@ -18,9 +41,10 @@ async function urlExists(url) {
 
 async function insertUrl(summary) {
   console.log(`Inserting URL: ${summary.url}`);
+  const translatedSummary = await getTranslation(summary.text);
   const result = await sql`
-    INSERT INTO arbiter_v1 (url, summary_raw)
-    VALUES (${summary.url}, ${summary.text})
+    INSERT INTO arbiter_v1 (url, summary_raw, summary_translated)
+    VALUES (${summary.url}, ${summary.text}, ${translatedSummary})
     RETURNING *
   `;
   console.log(`Finished inserting URL: ${summary.url}`);
