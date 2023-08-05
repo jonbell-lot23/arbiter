@@ -80,8 +80,6 @@ async function main() {
 
       if (result.length > 0) {
         console.log(`URL exists: ${summary.url}`);
-        const translation = await getTranslation("Tell me a joke");
-        console.log("GPT response:", translation);
       } else {
         console.log(`URL does not exist: ${summary.url}`);
 
