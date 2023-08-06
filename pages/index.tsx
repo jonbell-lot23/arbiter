@@ -32,7 +32,7 @@ export async function getStaticProps() {
         summary_raw: post.summary_raw,
         summary_translated: post.summary_translated,
         created_at: post.created_at
-          ? new Date(post.created_at).toISOString()
+          ? new Date(Date.parse(post.created_at)).toISOString()
           : null,
       })),
     },
