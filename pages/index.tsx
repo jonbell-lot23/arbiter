@@ -83,7 +83,7 @@ const Home: NextPage<Props> = ({ posts }) => {
       ...post,
       viewed: viewedArticles.includes(post.id),
       // convert the date to local date
-      localDate: formatDate(post.created_at),
+      localDate: formatDate(post.created_at.toISOString()),
     }));
     console.log("Updated posts:", updatedPosts);
 
