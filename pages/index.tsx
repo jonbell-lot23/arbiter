@@ -31,7 +31,7 @@ export async function getStaticProps() {
         url: post.url,
         summary_raw: post.summary_raw,
         summary_translated: post.summary_translated,
-        created_at: post.created_at || null,
+        created_at: post.created_at ? post.created_at.toISOString() : null,
       })),
     },
   };
@@ -81,9 +81,9 @@ const Home: NextPage<Props> = ({ posts }) => {
     const updatedPosts = posts.map((post) => ({
       ...post,
       viewed: viewedArticles.includes(post.id),
-      // convert the date to local date
+      // convert the date string back to a Date object to call toISOString
       localDate: post.created_at
-        ? formatDate(post.created_at.toISOString())
+        ? formatDate(new Date(post.created_at).toISOString())
         : null,
     }));
     console.log("Updated posts:", updatedPosts);
