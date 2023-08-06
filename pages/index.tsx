@@ -31,11 +31,12 @@ export async function getStaticProps() {
         url: post.url,
         summary_raw: post.summary_raw,
         summary_translated: post.summary_translated,
-        created_at: post.created_at ? post.created_at.toISOString() : null,
+        created_at: post.created_at || null,
       })),
     },
   };
 }
+
 function formatDate(dateString: string): string {
   const date = new Date(dateString);
   const today = new Date();
@@ -81,7 +82,9 @@ const Home: NextPage<Props> = ({ posts }) => {
       ...post,
       viewed: viewedArticles.includes(post.id),
       // convert the date to local date
-      localDate: formatDate(post.created_at.toISOString()),
+      localDate: post.created_at
+        ? formatDate(post.created_at.toISOString())
+        : null,
     }));
     console.log("Updated posts:", updatedPosts);
 
