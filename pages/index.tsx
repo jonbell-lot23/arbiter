@@ -102,13 +102,13 @@ const Home: NextPage<Props> = ({ posts }) => {
       });
   }, [groupedPosts]);
 
-  const handleArticleRender = (postId) => {
+  const handleArticleRender = (postId: bigint) => {
     let viewedArticles = JSON.parse(
       localStorage.getItem("viewedArticles") || "[]"
-    );
+    ).map(Number);
 
-    if (!viewedArticles.includes(postId)) {
-      viewedArticles.push(postId);
+    if (!viewedArticles.includes(Number(postId))) {
+      viewedArticles.push(Number(postId));
       localStorage.setItem("viewedArticles", JSON.stringify(viewedArticles));
     }
   };
