@@ -1,0 +1,10 @@
+.article {
+  padding: 6px 0;
+}
+
+.article.viewed div {
+  color: #888;
+}
+
+.article.notViewed div {
+}
