@@ -18,9 +18,9 @@ const fs = require("fs").promises; // Import the promises version of fs
 
   console.log(divContents);
 
-  // Write divContents to output.json
+  // Write divContents to memeorandum.json
   await fs.writeFile(
-    "public/output.json",
+    "public/memeorandum.json",
     JSON.stringify(divContents, null, 2)
   );
 

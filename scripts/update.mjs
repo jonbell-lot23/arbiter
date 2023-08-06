@@ -67,7 +67,7 @@ async function insertUrl(summary) {
 async function main() {
   // Read your data
   const data = JSON.parse(
-    readFileSync(join(__dirname, "../public/output.json"), "utf-8")
+    readFileSync(join(__dirname, "../public/memeorandum.json"), "utf-8")
   );
 
   let pendingUrls = data.map((item) => item.url);

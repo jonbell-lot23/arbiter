@@ -5,6 +5,7 @@ import { PrismaClient, arbiter_v1 } from "@prisma/client";
 import ReactMarkdown from "react-markdown";
 import "../app/globals.css";
 import styles from "./styles.module.css";
+import groupBy from "lodash.groupby";
 
 interface Props {
   posts: arbiter_v1WithDate[];
@@ -37,9 +38,29 @@ export async function getStaticProps() {
     },
   };
 }
+function formatDate(dateString: string): string {
+  const date = new Date(dateString);
+  const today = new Date();
+  const yesterday = new Date(today);
+  yesterday.setDate(yesterday.getDate() - 1);
+
+  if (date.toLocaleDateString() === today.toLocaleDateString()) {
+    return "Today";
+  } else if (date.toLocaleDateString() === yesterday.toLocaleDateString()) {
+    return "Yesterday";
+  } else {
+    return date.toLocaleDateString("en-US", {
+      month: "long",
+      day: "numeric",
+      year: "numeric",
+    });
+  }
+}
 
 const Home: NextPage<Props> = ({ posts }) => {
-  const [sortedPosts, setSortedPosts] = useState<arbiter_v1WithDate[]>([]);
+  const [groupedPosts, setGroupedPosts] = useState<{
+    [key: string]: arbiter_v1WithDate[];
+  }>({});
 
   useEffect(() => {
     console.log("Running useEffect");
@@ -61,24 +82,44 @@ const Home: NextPage<Props> = ({ posts }) => {
     const updatedPosts = posts.map((post) => ({
       ...post,
       viewed: viewedArticles.includes(post.id),
+      // convert the date to local date
+      localDate: formatDate(post.created_at),
     }));
     console.log("Updated posts:", updatedPosts);
-    setSortedPosts(updatedPosts);
+
+    // Group the posts by local date
+    const grouped = groupBy(updatedPosts, "localDate");
+    setGroupedPosts(grouped);
   }, [posts]);
+
+  useEffect(() => {
+    Object.values(groupedPosts)
+      .flat()
+      .forEach((post) => {
+        if (!post.viewed) {
+          handleArticleRender(post.id);
+        }
+      });
+  }, [groupedPosts]);
+
+  const handleArticleRender = (postId) => {
+    let viewedArticles = JSON.parse(
+      localStorage.getItem("viewedArticles") || "[]"
+    );
+
+    if (!viewedArticles.includes(postId)) {
+      viewedArticles.push(postId);
+      localStorage.setItem("viewedArticles", JSON.stringify(viewedArticles));
+    }
+  };
 
   return (
     <>
-      <Head>
-        <title>Arbiter</title>
-        <meta name="description" content="Arbiter" />
-      </Head>
-      <div className="max-w-screen-md min-h-screen mx-auto">
-        <div className="px-4 py-8 mx-auto text-left">
-          <h1 className="mb-8 text-2xl font-bold text-center">
-            Arbiter: Politics
-          </h1>
-          <div className="grid gap-1 mx-auto prose">
-            {sortedPosts.map((post) => (
+      <div className="grid gap-1 mx-auto prose">
+        {Object.entries(groupedPosts).map(([date, posts]) => (
+          <div key={date}>
+            <h2>{date}</h2>
+            {posts.map((post) => (
               <div
                 key={post.id.toString()}
                 className={
@@ -88,7 +129,7 @@ const Home: NextPage<Props> = ({ posts }) => {
                 }
               >
                 <ReactMarkdown
-                  className="mx-auto text-sm prose prose-lg"
+                  className="mx-auto prose text-md"
                   // eslint-disable-next-line react/no-children-prop
                   children={
                     post.summary_translated
@@ -99,7 +140,7 @@ const Home: NextPage<Props> = ({ posts }) => {
               </div>
             ))}
           </div>
-        </div>
+        ))}
       </div>
     </>
   );
