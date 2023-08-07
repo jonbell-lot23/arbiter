@@ -116,10 +116,11 @@ const Home: NextPage<Props> = ({ posts }) => {
 
   return (
     <>
-      <div className="grid gap-1 mx-auto prose">
+      <div className="grid gap-4 mx-4 prose md:gap-1 md:mx-auto">
+        <img src="masthead.png" />
         {Object.entries(groupedPosts).map(([date, posts]) => (
           <div key={date}>
-            <h2>{date}</h2>
+            <h2 className={styles.day}>{date}</h2>
             {posts.map((post) => (
               <div
                 key={post.id.toString()}
