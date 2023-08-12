@@ -1,0 +1,25 @@
+name: Send auto-email
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+
+    - name: Install resend package
+      run: npm install resend
+
+    - name: Run script
+      run: node scripts/mail.mjs
