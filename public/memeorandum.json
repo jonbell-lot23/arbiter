@@ -40,12 +40,12 @@
     "url": "https://www.politico.com/news/magazine/2023/08/17/ron-filipkowski-desantis-trump-00110950"
   },
   {
-    "text": "Comer to NARA: Turn over all your Biden comms — as “Robert L. Peters”; Update: “JRB Ware”?  —  Call this the Pierre Delecto Twist in the Case of the Influence-Peddling Bidens.  Where Mitt Romney adopted a nom de plume for social-media sock puppetry, Joe Biden apparently put his pseudonym to a more, ah, commercial use.",
-    "url": "https://hotair.com/ed-morrissey/2023/08/17/comer-to-nara-turn-over-all-your-biden-comms-as-robert-l-peters-n571813"
-  },
-  {
     "text": "‘Squad’ Democrat Ilhan Omar's World Cup trip funded by Hamas-tied Qatar  —  “Squad” Rep. Ilhan Omar (D-MN), who has come under fire from Democrats and Republicans for anti-Israel remarks, had her 2022 World Cup trip paid for by the government of Qatar, an Arab country that has been a top funder of the terrorist group Hamas.",
     "url": "https://www.washingtonexaminer.com/news/house/squad-democrat-ilhan-omars-world-cup-trip-funded-qatar"
+  },
+  {
+    "text": "Comer to NARA: Turn over all your Biden comms — as “Robert L. Peters”; Update: “JRB Ware”?  —  Call this the Pierre Delecto Twist in the Case of the Influence-Peddling Bidens.  Where Mitt Romney adopted a nom de plume for social-media sock puppetry, Joe Biden apparently put his pseudonym to a more, ah, commercial use.",
+    "url": "https://hotair.com/ed-morrissey/2023/08/17/comer-to-nara-turn-over-all-your-biden-comms-as-robert-l-peters-n571813"
   },
   {
     "text": "Marijuana and hallucinogen use, binge drinking reached historic highs among adults 35 to 50  —  NIH-funded study also shows younger adults reported marijuana, vaping, and hallucinogen use at or near historically high levels.  —  For more information on substance and mental health treatment programs … ",
@@ -68,10 +68,6 @@
     "url": "https://www.politico.com/news/2023/08/17/pence-debate-showdown-trump-00111589"
   },
   {
-    "text": "Menendez Rating Drops  —  West Long Branch, NJ - Public opinion of federal officeholders in New Jersey has dipped in the past year, but U.S. Sen. Bob Menendez is the only one who has lost ground with fellow Democrats.  The latest Monmouth (\"Mon-muth\") University Poll finds that most residents feel … ",
-    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_NJ_081723/"
-  },
-  {
     "text": "Dual citizen of France and Canada who mailed ricin to Trump sentenced to nearly 22 years in prison  —  A dual citizen of France and Canada who sent letters containing homemade ricin to then-President Donald Trump and eight Texas law enforcement officials was sentenced Thursday to nearly 22 years in prison.",
     "url": "https://www.cnn.com/2023/08/17/politics/ricin-trump-pascale-cecile-veronique-ferrier-sentenced/"
   },
@@ -80,16 +76,20 @@
     "url": "https://www.businessinsider.com/rudy-giuliani-biden-documentary-scam-money-lawsuit-2023-8?op=1"
   },
   {
+    "text": "Menendez Rating Drops  —  West Long Branch, NJ - Public opinion of federal officeholders in New Jersey has dipped in the past year, but U.S. Sen. Bob Menendez is the only one who has lost ground with fellow Democrats.  The latest Monmouth (\"Mon-muth\") University Poll finds that most residents feel … ",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_NJ_081723/"
+  },
+  {
     "text": "Treasury Targets Individuals Involved in the Poisoning of Aleksey Navalny  —  WASHINGTON — Today, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is once again taking action to hold the Government of Russia accountable for its poisoning of Russian opposition … ",
     "url": "https://home.treasury.gov/news/press-releases/jy1700"
   },
   {
-    "text": "‘If a candidate can win Hispanics, they can win the presidency’: Mayor Francis Suarez  —  Miami Mayor Francis Suarez (R) joins Meet the Press NOW to discuss his candidacy for the Republican presidential nomination, as he remains short of the criteria needed to attend the first primary debate on August 23.",
-    "url": "https://www.nbcnews.com/meet-the-press/video/-if-a-candidate-can-win-hispanics-they-can-win-the-presidency-mayor-francis-suarez-191056453519"
+    "text": "Democratic Group Plans $10 Million Push to Protect Election Officials  —  The group is starting a new venture that will focus on five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin.  —  A group that works to elect Democrats as the top election officials … ",
+    "url": "https://www.nytimes.com/2023/08/17/us/politics/democrats-election-officials-value-the-vote.html"
   },
   {
-    "text": "House Judiciary subpoenas Garland, Wray over contact with social media companies  —  The House Judiciary Committee is escalating its probe into Biden administration efforts to address disinformation, issuing subpoenas to Attorney General Merrick Garland and FBI Director Christopher Wray.",
-    "url": "https://thehill.com/policy/national-security/4157469-house-judiciary-subpoenas-garland-wray-over-contact-with-social-media-companies/"
+    "text": "Fact-Checking the Breadth of Trump's Election Lies  —  The former president faces multiple charges related to his lies about the 2020 election.  Here's a look at some of his most repeated falsehoods.  —  Before the 2020 election had even concluded, President Donald J. Trump laid the groundwork … ",
+    "url": "https://www.nytimes.com/2023/08/17/us/politics/trump-election-lies-fact-check.html"
   },
   {
     "text": "North Korean missile capable of striking the U.S. likely a result of cooperation with Russia, think tank says  —  The missile's physical dimensions and its flight trajectory data appear “nearly identical” to that of Russia's Topol-M ICBM, says the report from the Center for Strategic and International Studies.",
@@ -100,7 +100,11 @@
     "url": "https://thehill.com/policy/defense/4157392-pentagon-study-calls-for-reforms-at-us-military-academies/"
   },
   {
-    "text": "Democratic Group Plans $10 Million Push to Protect Election Officials  —  The group is starting a new venture that will focus on five battleground states: Georgia, Arizona, North Carolina, Nevada and Wisconsin.  —  A group that works to elect Democrats as the top election officials … ",
-    "url": "https://www.nytimes.com/2023/08/17/us/politics/democrats-election-officials-value-the-vote.html"
+    "text": "House Judiciary subpoenas Garland, Wray over contact with social media companies  —  The House Judiciary Committee is escalating its probe into Biden administration efforts to address disinformation, issuing subpoenas to Attorney General Merrick Garland and FBI Director Christopher Wray.",
+    "url": "https://thehill.com/policy/national-security/4157469-house-judiciary-subpoenas-garland-wray-over-contact-with-social-media-companies/"
+  },
+  {
+    "text": "House Republicans subpoena Citibank over info shared with FBI after Jan. 6  — House Judiciary Committee Chair Jim Jordan sent a subpoena to Citibank on Thursday, demanding information about whether the bank handed customer information over to law enforcement following the Jan. 6, 2021 attack on the Capitol.",
+    "url": "https://www.cnbc.com/2023/08/17/house-republicans-subpoena-citibank-over-data-shared-after-jan-6.html"
   }
 ]
