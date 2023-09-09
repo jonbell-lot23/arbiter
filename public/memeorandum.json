@@ -1,19 +1,19 @@
 [
   {
-    "text": "Judge denies Mark Meadows effort to move Georgia case to federal court  —  The ruling is a blow to Meadows's efforts in federal court to dismiss his case and could influence former president Donald Trump as he decides whether to seek removal himself.  —  A federal judge denied a request Friday … ",
-    "url": "https://www.washingtonpost.com/politics/2023/09/08/mark-meadows-court-decision-georgia/"
-  },
-  {
     "text": "A reminder of how one juror could save Trump  —  The big news from the newly released Fulton County, Ga., special grand jury report is that the panel recommended charges for many more than the 19 people (including Donald Trump) who were ultimately indicted.  Among them: a sitting U.S. senator … ",
     "url": "https://www.washingtonpost.com/politics/2023/09/08/reminder-how-one-juror-could-save-trump/"
   },
   {
-    "text": "Judge refuses to move prosecution of Mark Meadows to federal court  —  Meadows' role in efforts to challenge the 2020 election results fell outside the scope of his official duties, so his case should remain in state court, the judge said.  —  The prosecution of former White House chief … ",
-    "url": "https://www.politico.com/news/2023/09/08/judge-refuses-to-move-prosecution-of-mark-meadows-to-federal-court-00114817"
-  },
-  {
     "text": "Fulton County special grand jury recommended charges against Lindsey Graham, David Perdue and Kelly Loeffler  —  The special grand jury in Fulton County investigating the 2020 presidential election in Georgia recommended charges against Republican Sen. Lindsey Graham of South Carolina … ",
     "url": "https://www.cnn.com/2023/09/08/politics/fulton-county-special-grand-jury-report/"
+  },
+  {
+    "text": "Judge denies Mark Meadows effort to move Georgia case to federal court  —  The ruling is a blow to Meadows's efforts in federal court to dismiss his case and could influence former president Donald Trump as he decides whether to seek removal himself.  —  A federal judge denied a request Friday … ",
+    "url": "https://www.washingtonpost.com/politics/2023/09/08/mark-meadows-court-decision-georgia/"
+  },
+  {
+    "text": "Judge refuses to move prosecution of Mark Meadows to federal court  —  Meadows' role in efforts to challenge the 2020 election results fell outside the scope of his official duties, so his case should remain in state court, the judge said.  —  The prosecution of former White House chief … ",
+    "url": "https://www.politico.com/news/2023/09/08/judge-refuses-to-move-prosecution-of-mark-meadows-to-federal-court-00114817"
   },
   {
     "text": "5th Circuit finds Biden White House, CDC likely violated First Amendment  —  The three judge panel found that contacts with tech companies by officials from the White House, the surgeon general's office, the CDC and the FBI likely amounted to coercion  —  The U.S. Court of Appeals … ",
@@ -28,6 +28,10 @@
     "url": "https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html"
   },
   {
+    "text": "Appeals court scales back order squelching Biden administration contact with social media platforms  —  The administration has 10 days to seek a Supreme Court review.  —  NEW ORLEANS — A federal appeals court Friday significantly whittled down a lower court's order curbing Biden administration … ",
+    "url": "https://www.politico.com/news/2023/09/08/appeals-court-biden-social-media-00114857"
+  },
+  {
     "text": "Trump leads, followed by second tier of four candidates in ISU/Civiqs poll  —  AMES, IA — Donald Trump far outpaces other Republican presidential nominees in an Iowa State University/Civiqs poll, which surveyed 1,128 registered voters from Sept. 2-7.  The results are the first in a five-part … ",
     "url": "https://www.news.iastate.edu/news/2023/09/08/24caucus-poll1"
   },
@@ -38,10 +42,6 @@
   {
     "text": "New tapes reveal MyPillow CEO Mike Lindell meltdown in 2020 election deposition  — The clips of the depositions show Mike Lindell snapping and ripping attorneys who are leading a lawsuit against him.  — Eric Coomer, former director of product strategy and security at Dominion Voting Systems, has sued Lindell for defamation.",
     "url": "https://www.cnbc.com/2023/09/08/my-pillow-ceo-mike-lindell-melts-down-in-trump-2020-deposition.html"
-  },
-  {
-    "text": "Trump Is Said to Have Told Blake Masters He'd Lose Senate Primary to Kari Lake  —  Neither potential candidate has entered the race to unseat Senator Kyrsten Sinema in Arizona.  —  Former President Donald J. Trump on Sunday called Blake Masters, the failed Arizona Senate candidate considering … ",
-    "url": "https://www.nytimes.com/2023/09/08/us/politics/trump-blake-masters-kari-lake-primary-arizona.html"
   },
   {
     "text": "US likely to send long-range ATACMS missiles to Ukraine for the first time: Officials  —  “They are coming,” one U.S. official told ABC News.  —  The Biden administration is likely to send Ukraine long-range Army Tactical Missile Systems, or ATACMS, to help in its fight to repel … ",
@@ -74,5 +74,13 @@
   {
     "text": "How ‘Free Speech’ Warrior RFK Tried to Bully a DailyKos Blogger  —  Robert Kennedy Jr. hired Kyle Rittenhouse's lawyer to threaten a lawsuit against an anonymous writer who documented the anti-vaxxer's appearance at a far-right German rally. … Robert F. Kennedy Jr. has long postured … ",
     "url": "https://www.thedailybeast.com/rfk-jr-allegedly-tried-to-bully-dailykos-blogger-david-vickrey-after-appearing-at-far-right-rally-in-germany"
+  },
+  {
+    "text": "BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild  —  Apple has just issued an update for Apple products including iPhones, iPads, Mac computers, and Apple Watches.  We encourage all users to immediately update their devices.  —  We urge all at-risk users … ",
+    "url": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+  },
+  {
+    "text": "D.E.I. Statements Stir Debate on College Campuses  —  Yoel Inbar, a psychology professor, thought he might be teaching at U.C.L.A., but his reservations about diversity statements got him in trouble.  —  Yoel Inbar, a noted psychology professor at the University of Toronto, figured he might be teaching this fall at U.C.L.A.",
+    "url": "https://www.nytimes.com/2023/09/08/us/ucla-dei-statement.html"
   }
 ]
