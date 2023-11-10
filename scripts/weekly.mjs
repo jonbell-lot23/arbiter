@@ -20,7 +20,7 @@ async function getTranslation(headlines) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "gpt-4-turbo",
+      model: "gpt-4-1106-preview",
       messages: [
         { role: "system", content: instructions },
         { role: "user", content: headlines.join("\n") },
