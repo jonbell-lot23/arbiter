@@ -62,55 +62,35 @@ const Home: NextPage<Props> = ({ posts }) => {
   }>({});
 
   useEffect(() => {
-    console.log("Running useEffect");
-    let viewedArticles = JSON.parse(
-      localStorage.getItem("viewedArticles") || "[]"
+    let mostRecentViewedArticle = Number(
+      localStorage.getItem("mostRecentViewedArticle") || "0"
     );
-    console.log("Viewed articles from localStorage:", viewedArticles);
-
-    // Add all new articles to the viewed list
-    const newArticleIds = posts
-      .map((post) => post.id)
-      .filter((id) => !viewedArticles.includes(id));
-    console.log("New article IDs:", newArticleIds);
-    viewedArticles = [...viewedArticles, ...newArticleIds];
-    localStorage.setItem("viewedArticles", JSON.stringify(viewedArticles));
-    console.log("Updated viewed articles:", viewedArticles);
+    console.log(
+      "Most recent viewed article from localStorage:",
+      mostRecentViewedArticle
+    );
 
     // Update the state
     const updatedPosts = posts.map((post) => ({
       ...post,
-      viewed: viewedArticles.includes(post.id),
-      // convert the date string back to a Date object to call toISOString
+      viewed: post.id <= mostRecentViewedArticle,
       localDate: post.created_at
         ? formatDate(new Date(post.created_at).toISOString())
         : null,
     }));
-    console.log("Updated posts:", updatedPosts);
 
     // Group the posts by local date
     const grouped = groupBy(updatedPosts, "localDate");
     setGroupedPosts(grouped);
   }, [posts]);
 
-  useEffect(() => {
-    Object.values(groupedPosts)
-      .flat()
-      .forEach((post) => {
-        if (!post.viewed) {
-          handleArticleRender(post.id);
-        }
-      });
-  }, [groupedPosts]);
-
   const handleArticleRender = (postId: bigint) => {
-    let viewedArticles = JSON.parse(
-      localStorage.getItem("viewedArticles") || "[]"
-    ).map(Number);
+    let mostRecentViewedArticle = Number(
+      localStorage.getItem("mostRecentViewedArticle") || "0"
+    );
 
-    if (!viewedArticles.includes(Number(postId))) {
-      viewedArticles.push(Number(postId));
-      localStorage.setItem("viewedArticles", JSON.stringify(viewedArticles));
+    if (postId > mostRecentViewedArticle) {
+      localStorage.setItem("mostRecentViewedArticle", postId.toString());
     }
   };
 
@@ -120,7 +100,7 @@ const Home: NextPage<Props> = ({ posts }) => {
         <img src="masthead.png" />
         {Object.entries(groupedPosts).map(([date, posts]) => (
           <div key={date}>
-            <h2 className={styles.day}>{date}</h2>
+            <h2 className="my-4">{date}</h2>
             {posts.map((post) => (
               <div
                 key={post.id.toString()}

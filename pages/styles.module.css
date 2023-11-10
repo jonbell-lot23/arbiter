@@ -9,7 +9,7 @@
 }
 
 .article.viewed div {
-  color: #888;
+  color: blue;
 }
 
 .article.notViewed div {
