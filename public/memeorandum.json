@@ -1,5 +1,13 @@
 [
   {
+    "text": "Biden faces treacherous political choices in answering deadly attack  —  Republicans demand that Biden attack Iran.  Some warn that risks a wider Middle East conflagration.  —  President Biden met with top aides Monday to review potential American responses to a drone attack … ",
+    "url": "https://www.washingtonpost.com/politics/2024/01/29/biden-attacks-iran-mideast/"
+  },
+  {
+    "text": "A Gaza Ceasefire Deal Is the Only Way to Avoid a Wider War  —  If the war between Israel and Hamas rages on indefinitely, the conflict will spread.  It doesn't have to be that way. … It is inevitable that much of the discussion in Washington, D.C. regarding the drone attack … ",
+    "url": "https://www.thedailybeast.com/gaza-ceasefire-deal-is-the-only-way-to-avoid-wider-war"
+  },
+  {
     "text": "House Republicans poised to torpedo GOP's best chance in years to pass border bill  —  House Republicans appear to be on the precipice of torpedoing their best opportunity in years of passing border legislation.  —  Republicans had long insisted on changes to border and migration policy … ",
     "url": "https://thehill.com/homenews/house/4436245-house-republicans-border-deal/"
   },
@@ -10,14 +18,6 @@
   {
     "text": "1/30/24 ☀️ Punchbowl News AM … The House Homeland Security Committee will mark up a resolution today to impeach DHS Secretary Alejandro Mayorkas, the first time in nearly 150 years that the chamber will try to remove a member of the president's Cabinet. … Meaning this all will have achieved nothing.",
     "url": "https://punchbowl.news/archive/13024-punchbowl-news-am/"
-  },
-  {
-    "text": "Biden faces treacherous political choices in answering deadly attack  —  Republicans demand that Biden attack Iran.  Some warn that risks a wider Middle East conflagration.  —  President Biden met with top aides Monday to review potential American responses to a drone attack … ",
-    "url": "https://www.washingtonpost.com/politics/2024/01/29/biden-attacks-iran-mideast/"
-  },
-  {
-    "text": "A Gaza Ceasefire Deal Is the Only Way to Avoid a Wider War  —  If the war between Israel and Hamas rages on indefinitely, the conflict will spread.  It doesn't have to be that way. … It is inevitable that much of the discussion in Washington, D.C. regarding the drone attack … ",
-    "url": "https://www.thedailybeast.com/gaza-ceasefire-deal-is-the-only-way-to-avoid-wider-war"
   },
   {
     "text": "Nikki Haley banking on Trump's legal dramas as key to lasting in primary race  —  Former President Donald Trump's escalating legal drama could be former U.N. Ambassador Nikki Haley's justification to fend off pressure to drop her White House bid.  —  Haley claims her campaign will last through … ",
@@ -32,24 +32,24 @@
     "url": "https://www.cnn.com/2024/01/29/politics/luttig-conway-supreme-court-trump-insurrection/"
   },
   {
-    "text": "The anti-abortion plan ready for Trump on Day One  —  The stakes of the election go far beyond whether a GOP president signs a bill banning the procedure.  —  Anti-abortion groups have not yet persuaded Donald Trump to commit to signing a national ban if he returns to the White House.",
-    "url": "https://www.politico.com/news/2024/01/29/trump-abortion-ban-2024-campaign-00138417"
-  },
-  {
     "text": "Republicans now say it might be okay to ignore the Supreme Court  —  A consequential development of the Trump era is what increasingly looks like the Republicans' acrimonious divorce from the rule of law.  —  The party that once prided itself as the law-and-order side has leaped headlong … ",
     "url": "https://www.washingtonpost.com/politics/2024/01/29/republicans-now-say-it-might-be-okay-ignore-supreme-court/"
+  },
+  {
+    "text": "The anti-abortion plan ready for Trump on Day One  —  The stakes of the election go far beyond whether a GOP president signs a bill banning the procedure.  —  Anti-abortion groups have not yet persuaded Donald Trump to commit to signing a national ban if he returns to the White House.",
+    "url": "https://www.politico.com/news/2024/01/29/trump-abortion-ban-2024-campaign-00138417"
   },
   {
     "text": "Party feud breaks out ahead of RNC meeting in Las Vegas  —  GOP county chairs and local activists warned the party isn't doing enough to compete in November.  —  LAS VEGAS — Days before the Republican National Committee was set to convene here, hundreds of Republican officials gathered … ",
     "url": "https://www.politico.com/news/2024/01/29/republican-party-feud-turning-point-las-vegas-00138493"
   },
   {
-    "text": "Texas AG seeks transgender records in Georgia as part of his wider probe  —  Texas Attorney General Ken Paxton has requested medical records from a Georgia telehealth clinic that provides gender-affirming care, a newly discovered move that shows the Republican official is looking in multiple states … ",
-    "url": "https://www.washingtonpost.com/nation/2024/01/29/texas-ag-transgender-records-georgia/"
-  },
-  {
     "text": "Israeli undercover forces dressed as women and medics storm West Bank hospital, killing 3 militants  —  Israeli forces disguised as civilian women and medical workers stormed a hospital Tuesday in the occupied West Bank, killing three Palestinian militants in a dramatic raid that underscored … ",
     "url": "https://apnews.com/article/israel-hamas-war-news-01-30-2024-b1ba33c7c0c5c62f85932a20c2a0bc92"
+  },
+  {
+    "text": "Texas AG seeks transgender records in Georgia as part of his wider probe  —  Texas Attorney General Ken Paxton has requested medical records from a Georgia telehealth clinic that provides gender-affirming care, a newly discovered move that shows the Republican official is looking in multiple states … ",
+    "url": "https://www.washingtonpost.com/nation/2024/01/29/texas-ag-transgender-records-georgia/"
   },
   {
     "text": "Right-Wingers Say Super Bowl Is Rigged So Taylor Swift Can Endorse Biden  —  It's all really stupid  —  Taylor Swift has shattered virtually every major record in the music industry, and as she lives her best life supporting her boyfriend, Kansas City Chiefs tight end Travis Kelce, she's also breaking the brains of right-wingers.",
@@ -70,9 +70,5 @@
   {
     "text": "Apple warns proposed UK law will affect software updates around the world  —  Apple may leave the UK if required to provide advance notice of product updates.  —  Apple is “deeply concerned” that proposed changes to a United Kingdom law could give the UK government unprecedented power to … ",
     "url": "https://arstechnica.com/tech-policy/2024/01/apple-accuses-uk-of-power-grab-enabling-secret-veto-over-security-updates/"
-  },
-  {
-    "text": "Democrats ramp up spending in a race that will determine control of the Pennsylvania state House  —  A special election for a state House seat in Bucks County — a purple area in the northern suburbs of Philadelphia — will take place Feb. 13.  —  Democrats have begun ramping up their spending weeks … ",
-    "url": "https://www.nbcnews.com/politics/2024-election/democrats-spending-pennsylvania-state-house-race-rcna136188"
   }
 ]
