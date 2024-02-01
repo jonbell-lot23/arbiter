@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "^4.16.2",
+    "@prisma/client": "^5.9.0",
     "@supabase/supabase-js": "^2.31.0",
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "20.4.4",
@@ -25,7 +25,6 @@
     "playwright": "^1.36.1",
     "postcss": "8.4.27",
     "postgres": "^3.3.5",
-    "prisma": "^5.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-markdown": "^8.0.7",
@@ -34,6 +33,7 @@
     "xml2js": "^0.6.2"
   },
   "devDependencies": {
-    "@types/lodash.groupby": "^4.6.7"
+    "@types/lodash.groupby": "^4.6.7",
+    "prisma": "^5.9.0"
   }
 }
