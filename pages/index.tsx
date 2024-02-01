@@ -26,7 +26,7 @@ export async function getStaticProps() {
 
   return {
     props: {
-      posts: posts.map((post) => ({
+      posts: posts.map((post: arbiter_v1) => ({
         id: Number(post.id),
         url: post.url,
         summary_raw: post.summary_raw,
