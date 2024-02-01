@@ -15,6 +15,8 @@ interface arbiter_v1WithDate extends arbiter_v1 {
   id: number;
   created_at: Date;
   viewed?: boolean;
+  summary_translated?: string;
+  summary_raw?: string;
 }
 
 const prisma = new PrismaClient();
