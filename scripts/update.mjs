@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const openaiEndpoint = "https://api.openai.com/v1/chat/completions";
-const openaiKey = "butts";
+const openaiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
 
 async function getTranslation(summaryText) {
   const instructions =
@@ -34,8 +34,8 @@ async function getTranslation(summaryText) {
     !data.choices[0].message ||
     !data.choices[0].message.content
   ) {
-    console.error("😀 Unexpected response from OpenAI API:", data);
-    throw new Error("😀 Unexpected response from OpenAI API");
+    console.error("💩 Unexpected response from OpenAI API:", data);
+    throw new Error("💩Unexpected response from OpenAI API");
   }
 
   return data.choices[0].message.content.trim();
