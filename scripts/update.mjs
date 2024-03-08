@@ -34,8 +34,8 @@ async function getTranslation(summaryText) {
     !data.choices[0].message ||
     !data.choices[0].message.content
   ) {
-    console.error("💩 Unexpected response from OpenAI API:", data);
-    throw new Error("💩Unexpected response from OpenAI API");
+    console.error("😀 Unexpected response from OpenAI API:", data);
+    throw new Error("😀 Unexpected response from OpenAI API");
   }
 
   return data.choices[0].message.content.trim();
