@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const openaiEndpoint = "https://api.openai.com/v1/chat/completions";
-const openaiKey = process.env.ARBITER_TOKEN;
+const openaiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
 
 async function getTranslation(summaryText) {
   const instructions =
