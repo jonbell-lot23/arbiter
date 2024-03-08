@@ -1,4 +1,4 @@
-name: Run Playwright Script
+name: Scrape memeorandum
 
 on:
   schedule:
