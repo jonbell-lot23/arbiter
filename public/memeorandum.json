@@ -1,11 +1,11 @@
 [
   {
-    "text": "Biden's polling denial: Why he doesn't believe he's behind … - That bedrock belief has informed Biden's largely steady-as-she-goes campaign — even as many Democrats outside the White House are agitating for the campaign to change direction, given that Biden is polling well behind where he was four years ago.",
-    "url": "https://www.axios.com/2024/05/14/biden-polls-denial-trump-2024-election"
-  },
-  {
     "text": "Live Updates: Cohen Says He Sought to Influence Election With Payment ‘on Behalf of Mr. Trump’  —  Michael D. Cohen, Donald J. Trump's former fixer, described Mr. Trump confirming a plan to pay him back for buying the silence of a porn star, Stormy Daniels.  Mr. Trump faces 34 felony counts related to the reimbursement.",
     "url": "https://www.nytimes.com/live/2024/05/14/nyregion/trump-trial-news-michael-cohen"
+  },
+  {
+    "text": "Biden's polling denial: Why he doesn't believe he's behind … - That bedrock belief has informed Biden's largely steady-as-she-goes campaign — even as many Democrats outside the White House are agitating for the campaign to change direction, given that Biden is polling well behind where he was four years ago.",
+    "url": "https://www.axios.com/2024/05/14/biden-polls-denial-trump-2024-election"
   },
   {
     "text": "DOJ requests judge order Steve Bannon to begin prison sentence  —  An appeals court upheld Bannon's contempt of Congress conviction last week.  —  Steve Bannon, former adviser to Donald Trump, speaks at the Turning Point Action conference in West Palm Beach, Fla., July 16, 2023.",
@@ -14,10 +14,6 @@
   {
     "text": "Mike Johnson expected to join Trump at N.Y. criminal trial … - North Dakota Gov. Burgum, a Trump VP contender, is also expected in court on Tuesday, Axios has learned.  — So is fellow VP contender Vivek Ramaswamy, his spokesperson confirmed to Axios on Monday.",
     "url": "https://www.axios.com/2024/05/14/mike-johnson-new-york-trump-criminal-trial"
-  },
-  {
-    "text": "Speaker Johnson to attend Trump trial in Manhattan in show of support  —  House Speaker Mike Johnson is in Manhattan on Tuesday morning, his office tells Fox News Digital  —  House Speaker Mike Johnson, R-La., is expected in downtown Manhattan on Tuesday morning to show solidarity with former President Trump during his criminal trial.",
-    "url": "https://www.foxnews.com/politics/speaker-johnson-attend-trump-trial-manhattan-show-support"
   },
   {
     "text": "FACT SHEET: President Biden Takes Action to Protect American Workers and Businesses from China's Unfair Trade Practices  —  President Biden's economic plan is supporting investments and creating good jobs in key sectors that are vital for America's economic future and national security.",
@@ -32,24 +28,20 @@
     "url": "https://www.bloomberg.com/news/articles/2024-05-14/ken-griffin-is-waiting-to-see-trump-s-vp-pick-before-backing-him"
   },
   {
-    "text": "Playbook: The 2024 campaign heads to the House floor  —  With help from Eli Okun, Garrett Ross and Bethany Irvine  —  DRIVING THE DAY  —  CLICKER — “Trump's Lawyers Are Making Major Mistakes,” by Ankush Khardori: “Put simply, [DONALD] TRUMP's legal team has made several considerable … ",
-    "url": "https://www.politico.com/newsletters/playbook/2024/05/14/the-2024-campaign-heads-to-the-house-floor-00157791"
-  },
-  {
     "text": "Even When a Cop Is Killed With an Illegally Purchased Weapon, the Gun Store's Name Is Kept Secret  —  Under the Gun: How Gun Violence Is Impacting the Nation  —  As America emerged from the pandemic, communities continued to experience a rising tide of gun violence.",
     "url": "https://www.propublica.org/article/guns-chicago-police-ella-french-indiana-tiahrt-amendment"
-  },
-  {
-    "text": "Wholesale prices rose 0.5% in April, more than expected … WATCH NOW  —  Wholesale prices jumped more than expected in April, putting up another potential roadblock to interest rate cuts anytime soon.  —  The producer price index, a gauge of prices received at the wholesale level … ",
-    "url": "https://www.cnbc.com/2024/05/14/ppi-report-wholesale-prices-rose-0point5percent-in-april-more-than-expected.html"
   },
   {
     "text": "MIT Hired Six New Diversity Deans.  Two of Them Are Serial Plagiarists, Complaint Alleges.  —  In dissertation titled ‘Cite a Sista,’ Tracie Jones-Barrett stole an entire passage on ‘ethical considerations’ from her classmate  —  In June 2021, a year into the cultural aftershocks of George Floyd's death … ",
     "url": "https://freebeacon.com/campus/mit-hired-six-new-diversity-deans-two-of-them-are-serial-plagiarists-complaint-alleges/"
   },
   {
-    "text": "Trump is gagged.  So his surrogates say the forbidden stuff for him.  —  Three GOP senators have appeared with Trump in court and conveniently proceeded to say precisely what he can't.  —  Donald Trump's mouth and keyboard fingers have been relatively disciplined — by his own standards … ",
-    "url": "https://www.washingtonpost.com/politics/2024/05/13/trump-is-gagged-so-his-surrogates-say-forbidden-stuff-him/"
+    "text": "Playbook: The 2024 campaign heads to the House floor  —  With help from Eli Okun, Garrett Ross and Bethany Irvine  —  DRIVING THE DAY  —  CLICKER — “Trump's Lawyers Are Making Major Mistakes,” by Ankush Khardori: “Put simply, [DONALD] TRUMP's legal team has made several considerable … ",
+    "url": "https://www.politico.com/newsletters/playbook/2024/05/14/the-2024-campaign-heads-to-the-house-floor-00157791"
+  },
+  {
+    "text": "Wholesale prices rose 0.5% in April, more than expected … WATCH NOW  —  Wholesale prices jumped more than expected in April, putting up another potential roadblock to interest rate cuts anytime soon.  —  The producer price index, a gauge of prices received at the wholesale level … ",
+    "url": "https://www.cnbc.com/2024/05/14/ppi-report-wholesale-prices-rose-0point5percent-in-april-more-than-expected.html"
   },
   {
     "text": "House Democrats launch probe of Trump's dinner with oil executives  —  Lawmakers demand details of a Mar-a-Lago dinner where Trump promised to ease regulations on the oil industry while asking executives to steer $1 billion to his 2024 campaign.  —  House Democrats are launching an investigation … ",
@@ -60,12 +52,16 @@
     "url": "https://www.wsj.com/politics/elections/biden-trump-tariffs-d405cbca"
   },
   {
-    "text": "Biden Signs Ban on Imports of Russian Nuclear Reactor Fuel  — Russian supplies of enriched uranium to be barred in 90 days  — Move could boost costs for US nuclear plants, risk retaliation  —  President Joe Biden on Monday signed legislation banning the import of Russian enriched uranium … ",
-    "url": "https://www.bloomberg.com/news/articles/2024-05-13/biden-signs-ban-on-imports-of-russian-nuclear-reactor-fuel"
+    "text": "Trump is gagged.  So his surrogates say the forbidden stuff for him.  —  Three GOP senators have appeared with Trump in court and conveniently proceeded to say precisely what he can't.  —  Donald Trump's mouth and keyboard fingers have been relatively disciplined — by his own standards … ",
+    "url": "https://www.washingtonpost.com/politics/2024/05/13/trump-is-gagged-so-his-surrogates-say-forbidden-stuff-him/"
   },
   {
     "text": "Do Americans Remember the Actual Trump Presidency?  —  One of the remarkable things about the 2024 presidential election is that for the first time since 1912 voters will have a choice between presidents who served back-to-back in the immediately preceding eight years.",
     "url": "https://nymag.com/intelligencer/article/do-americans-remember-the-actual-trump-presidency.html"
+  },
+  {
+    "text": "Biden Signs Ban on Imports of Russian Nuclear Reactor Fuel  — Russian supplies of enriched uranium to be barred in 90 days  — Move could boost costs for US nuclear plants, risk retaliation  —  President Joe Biden on Monday signed legislation banning the import of Russian enriched uranium … ",
+    "url": "https://www.bloomberg.com/news/articles/2024-05-13/biden-signs-ban-on-imports-of-russian-nuclear-reactor-fuel"
   },
   {
     "text": "UNC-Chapel Hill BOT votes to divert DEI funding, redirecting it to campus public safety  —  The UNC-Chapel Hill Board of Trustees has voted to divert $2.3 million away from diversity, equity and inclusion programs and into “public safety.”  —  The unanimous vote occurred at a special Board of Trustees meeting Monday morning.",
@@ -78,9 +74,5 @@
   {
     "text": "Debate devolves into snark-fest between Bowman and Latimer  —  The Democratic House challengers accused each other of colluding with Republicans.  —  NEW YORK — Sniping, snark and incessant interruptions defined the first televised debate in one of the country's most competitive primaries Monday night … ",
     "url": "https://www.politico.com/news/2024/05/13/ny-house-debate-bowman-latimer-00157772"
-  },
-  {
-    "text": "2 Democratic candidates named Bob Ferguson withdraw from WA governor's race  —  SEATTLE (KOMO) — Washington Attorney General (AG) Bob Ferguson addressed recent developments in the state's governor's race Monday morning, days after two people named Robert Ferguson joined the ballot.",
-    "url": "https://www.komonews.com/news/local/washington-governor-bob-ferguson-race-ballot-three-3-candidates-democrat-democratic-attorney-general-election-general-november-glen-morgan-campaign-press-conference-dave-reichert-jay-inslee"
   }
 ]
