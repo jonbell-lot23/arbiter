@@ -1,5 +1,9 @@
 [
   {
+    "text": "Biden set to announce support for major Supreme Court changes  —  Plans include proposals for legislation to establish term limits for the justices and an enforceable ethics code  —  President Biden is finalizing plans to endorse major changes to the Supreme Court in the coming weeks … ",
+    "url": "https://www.washingtonpost.com/politics/2024/07/16/biden-supreme-court-reforms/"
+  },
+  {
     "text": "Schiff Warned of Wipeout for Democrats if Biden Remains in Race  —  Representative Adam B. Schiff of California told attendees at a Democratic fund-raiser that the party would lose the Senate and miss a chance to take the House if the president did not drop out.",
     "url": "https://www.nytimes.com/2024/07/16/us/politics/schiff-biden-democrats.html"
   },
@@ -20,12 +24,12 @@
     "url": "https://www.nytimes.com/2024/07/16/us/politics/biden-election.html"
   },
   {
-    "text": "Biden set to announce support for major Supreme Court changes  —  Plans include proposals for legislation to establish term limits for the justices and an enforceable ethics code  —  President Biden is finalizing plans to endorse major changes to the Supreme Court in the coming weeks … ",
-    "url": "https://www.washingtonpost.com/politics/2024/07/16/biden-supreme-court-reforms/"
-  },
-  {
     "text": "Exclusive: Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting  —  US authorities obtained intelligence from a human source in recent weeks on a plot by Iran to try to assassinate Donald Trump, a development that led … ",
     "url": "https://www.cnn.com/2024/07/16/politics/iran-plot-assassinate-trump-secret-service/"
+  },
+  {
+    "text": "Security Detail for Ex-Top Trump Official Denied by Biden Administration  —  Former national security adviser Robert O'Brien wanted his government protection extended amid ‘credible’ threats from Iran  —  WASHINGTON—The Biden administration has declined for almost a year to provide security … ",
+    "url": "https://www.wsj.com/politics/national-security/security-detail-for-top-trump-official-denied-by-biden-administration-0db6c0f4"
   },
   {
     "text": "U.S. Detected Potential Iranian Plot to Kill Trump Separate From Saturday's Shooting  —  American intelligence agencies were tracking an Iranian threat even before the attack on former President Donald J. Trump.  But officials said the two were unrelated.  —  U.S. intelligence agencies … ",
@@ -38,10 +42,6 @@
   {
     "text": "Federal jury returns for third day of deliberations at bribery trial of Sen. Bob Menendez  —  NEW YORK (AP) — A jury in New York City is expected to resume deliberations Tuesday in the bribery trial of Sen. Bob Menendez, the New Jersey Democrat accused of accepting gold and cash to use … ",
     "url": "https://apnews.com/article/menendez-bribery-trial-jury-deliberations-bab89b99a77fc6ce95531c88ab26cc4d"
-  },
-  {
-    "text": "Sen. Bob Menendez found guilty on all counts, including acting as foreign agent, in federal corruption trial  —  Menendez is the first senator to be convicted of acting as a foreign agent.  —  Sen. Bob Menendez leaves Manhattan federal court, July 15, 2024, in New York City.",
-    "url": "https://abcnews.go.com/US/sen-bob-menendez-federal-corruption-trial-verdict/story?id=111295557"
   },
   {
     "text": "In Private Speech, J.D. Vance Said the “Devil Is Real” and Praised Alex Jones as a Truth-Teller  —  Vance gave the speech to the secretive Teneo Network.  The GOP vice presidential nominee has been a member of the Leonard Leo-backed group, which seeks to cultivate conservative influence in business and culture.",
@@ -64,10 +64,6 @@
     "url": "https://www.nytimes.com/2024/07/16/us/politics/rfk-trump-call.html"
   },
   {
-    "text": "Donald Trump Does Not Get Post-Shooting Poll Boost  —  Donald Trump has not received a poll boost in the first presidential election survey conducted since the  —  on Saturday.  —  The poll, conducted by Morning Consult of 2,045 registered voters on Monday, reveals that Trump is leading",
-    "url": "https://www.newsweek.com/donald-trump-no-poll-boost-after-assassination-attempt-us-election-1925680"
-  },
-  {
     "text": "‘Whoa whoa whoa!’  CNN host stops GOP rep for suggesting Secret Service set Trump up  —  Rep. Cory Mills (R-FL) stunned CNN anchor Kate Bolduan on Tuesday morning by insinuating that Democrats or the Biden administration might have gotten the Secret Service to set up former President Donald Trump … ",
     "url": "https://www.rawstory.com/kate-bolduan-cory-mills/"
   },
@@ -76,15 +72,23 @@
     "url": "https://www.thedailybeast.com/rnc-shooting-cop-fatally-shoots-armed-suspect-just-outside-convention"
   },
   {
-    "text": "Arguments in Fani Willis appeal set for after election  —  Fulton's Trump election interference case remains in limbo  —  The Georgia Court of Appeals on Tuesday set a date a month after the presidential election to hear oral arguments in the appeal to disqualify District Attorney Fani Willis … ",
-    "url": "https://www.ajc.com/politics/court-sets-dec-5-for-arguments-in-fulton-da-disqualification-in-trump-case/VN2RO2Z4QVF3HFJ3YEQDZDJP7U/"
-  },
-  {
     "text": "School Vouchers Were Supposed to Save Taxpayer Money.  Instead They Blew a Massive Hole in Arizona's Budget.  —  Arizona, the model for voucher programs across the country, has spent so much money paying private schoolers' tuition that it's now facing hundreds of millions in budget cuts to critical state programs and projects.",
     "url": "https://www.propublica.org/article/arizona-school-vouchers-budget-meltdown"
   },
   {
     "text": "Thomas Matthew Crooks Had Donald Trump Signs in His Yard—Neighbor  —  A neighbor of the 20-year-old who tried to assassinate former President  —  said there have been pro-Trump signs on display in the yard of his family's home.  —  Authorities identified Thomas Matthew Crooks as the gunman … ",
     "url": "https://www.newsweek.com/thomas-matthew-crooks-donald-trump-sign-yard-neighbor-assassination-attempt-1925678"
+  },
+  {
+    "text": "Arguments in Fani Willis appeal set for after election  —  Fulton's Trump election interference case remains in limbo  —  The Georgia Court of Appeals on Tuesday set a date a month after the presidential election to hear oral arguments in the appeal to disqualify District Attorney Fani Willis … ",
+    "url": "https://www.ajc.com/politics/court-sets-dec-5-for-arguments-in-fulton-da-disqualification-in-trump-case/VN2RO2Z4QVF3HFJ3YEQDZDJP7U/"
+  },
+  {
+    "text": "‘Blindsided’ Jack Black Ends Tenacious D Tour After Trump Assassination Joke  —  SHOW'S OVER  —  The actor and musician also said he was “putting all creative plans on hold” amid an angry online backlash to his bandmate Kyle Gass' quip about the assassination attempt.",
+    "url": "https://www.thedailybeast.com/jack-blacks-tenacious-d-gig-axed-amid-uproar-over-bandmates-trump-assassination-joke"
+  },
+  {
+    "text": "Protesters marched in downtown Milwaukee — but fewer than anticipated  —  This week's much-hyped protest movement against the Republican National Convention has been mostly meh, with a few thousand protesters marching through downtown.  “The fear-mongering leading up to the protests definitely did not help … ",
+    "url": "https://www.politico.com/live-updates/2024/07/16/rnc-live-updates-coverage/protest-check-00168691"
   }
 ]
