@@ -16,6 +16,10 @@
     "url": "https://nymag.com/intelligencer/article/2024-dnc-chicago-barack-obama-speech.html"
   },
   {
+    "text": "Trump hits back at Obamas: ‘Do I still have to stick to policy?’  —  Former President Trump on Wednesday mocked allies who suggested he should not engage in personal attacks, pointing to fiery speeches a night earlier from former President Obama and former first lady Michelle Obama at the Democratic convention.",
+    "url": "https://thehill.com/homenews/campaign/4839905-trump-mocks-allies-obama-attacks/"
+  },
+  {
     "text": "Trump has far less campaign money and infrastructure than Harris  —  The former president's campaign infrastructure is smaller than Harris' — and his own from 2020.  —  Former President Donald Trump's campaign spending more than doubled last month as he dropped big money on ads attacking his new opponent … ",
     "url": "https://www.politico.com/news/2024/08/21/trump-harris-campaign-spending-fec-00175377"
   },
@@ -26,10 +30,6 @@
   {
     "text": "Trump “Disgusts Me to My Core”: Ex-MAGA Supporters Tell the World Why They're Voting for Kamala Harris  —  “Voting against Trump and for Kamala Harris is the right thing to do.”  —  From the president of the United Auto Workers calling him a “scab” and Senator Raphael Warnock deeming him a … ",
     "url": "https://www.vanityfair.com/news/story/ex-trump-supporters-explain-why-theyre-voting-for-kamala-harris"
-  },
-  {
-    "text": "Trump Jr. says it would be good to have RFK Jr. at an agency to ‘blow it up’  —  Video Player is loading.  —  Play Video  —  Unmute  —  Current Time 0:00  —  Loaded: 0%  —  Stream Type LIVE  —  Seek to live, currently behind liveLIVE  —  Playback Rate  —  Chapters  — Chapters",
-    "url": "https://thehill.com/homenews/campaign/4839852-trump-jr-robert-kennedy/"
   },
   {
     "text": "RFK Jr. plans to drop out of presidential race by end of week: Sources  —  Sources say Kennedy is leaning toward endorsing former President Trump.  —  Robert F. Kennedy Jr. speaks at the Bitcoin 2024 conference in Nashville, July 26, 2024.  —  Robert Kennedy Jr. is planning to drop … ",
@@ -44,40 +44,44 @@
     "url": "https://www.newsweek.com/donald-trump-accused-crime-benjamin-netanyahu-call-ceasefire-hamas-1942248"
   },
   {
-    "text": "DeSantis takeover of Florida school boards has big setback  —  At least 11 of his endorsed candidates appear to have lost Tuesday.  —  TALLAHASSEE, Florida — Gov. Ron DeSantis' attempt to elect conservative-leaning school board members across Florida hit a snag Tuesday … ",
-    "url": "https://www.politico.com/news/2024/08/20/ron-desantis-school-board-results-00175296"
-  },
-  {
     "text": "Trump Isn't Finished  —  The damage inflicted on the nation during Donald Trump's first term in office pales in comparison with what he will do if he is elected to a second term.  How can we know this?  The best evidence is Trump himself.  He has repeatedly demonstrated his willingness to tear the country apart.",
     "url": "https://www.nytimes.com/2024/08/21/opinion/trump-second-term-2025.html?unlocked_article_code=1.Ek4.MGLi.HFM1Ziql-h-t&smid=em-share"
-  },
-  {
-    "text": "Trump Surprised by Who Hurt His Feelings the Most at the DNC  —  ‘I WAS AMAZED’  —  “Her total hatred, and statements made about me, had no bounds,” he said.  —  Donald Trump has apparently been stewing on a speech given at the Democratic National Convention by New York Gov. Kathy Hochul.",
-    "url": "https://www.thedailybeast.com/donald-trump-surprised-kathy-hochul-hurt-his-feelings-the-most-at-the-dnc"
   },
   {
     "text": "Vladimir Putin manipulated Donald Trump's ‘ego and insecurities’, book says  —  Former US national security adviser HR McMaster claims Russian president had a hold over Trump in new memoir  —  Vladimir Putin exploited Donald Trump's “ego and insecurities” to exert an almost mesmeric hold … ",
     "url": "https://www.theguardian.com/books/article/2024/aug/21/trump-putin-hr-mcmaster-memoir"
   },
   {
-    "text": "Nonfarm payroll growth revised down by 818,000, Labor Department says  — As part of its preliminary annual benchmark revisions to the nonfarm payroll numbers, the Bureau of Labor Statistics said the actual job growth was nearly 30% less than the initially reported … WATCH NOW",
-    "url": "https://www.cnbc.com/2024/08/21/nonfarm-payroll-growth-revised-down-by-818000-labor-department-says.html"
-  },
-  {
-    "text": "Judge orders Trump to update him on unanswered Secret Service subpoena tied to Jan. 6 civil case  —  A federal judge overseeing civil litigation brought against Donald Trump by lawmakers and police who endured the Jan. 6 attack on the U.S. Capitol has agreed to give the former president … ",
-    "url": "https://lawandcrime.com/high-profile/judge-orders-trump-to-update-him-on-unanswered-secret-service-subpoena-tied-to-jan-6-civil-case/"
+    "text": "Trump Surprised by Who Hurt His Feelings the Most at the DNC  —  ‘I WAS AMAZED’  —  “Her total hatred, and statements made about me, had no bounds,” he said.  —  Donald Trump has apparently been stewing on a speech given at the Democratic National Convention by New York Gov. Kathy Hochul.",
+    "url": "https://www.thedailybeast.com/donald-trump-surprised-kathy-hochul-hurt-his-feelings-the-most-at-the-dnc"
   },
   {
     "text": "Pro-Palestinian protesters clash with police near Chicago's Israeli consulate on second night of DNC  —  (AP video: Serkan Gurbuz, Carrie Antlfinger)  —  Multiple pro-Palestinian demonstrators were arrested Tuesday after clashing with police during a protest that began outside the Israeli consulate … ",
     "url": "https://apnews.com/article/democratic-convention-chicago-protests-war-gaza-f064683535bbbe93231d31ecc2dbafc7"
   },
   {
-    "text": "Justice Department signals plan to salvage obstruction charges in some Jan. 6 cases  —  Prosecutors still see a path to conviction for some defendants, even while dropping the charge in other cases following a Supreme Court ruling.  —  The Justice Department said Wednesday it plans … ",
-    "url": "https://www.politico.com/news/2024/08/21/justice-department-jan-6-obstruction-00175412"
+    "text": "Judge orders Trump to update him on unanswered Secret Service subpoena tied to Jan. 6 civil case  —  A federal judge overseeing civil litigation brought against Donald Trump by lawmakers and police who endured the Jan. 6 attack on the U.S. Capitol has agreed to give the former president … ",
+    "url": "https://lawandcrime.com/high-profile/judge-orders-trump-to-update-him-on-unanswered-secret-service-subpoena-tied-to-jan-6-civil-case/"
+  },
+  {
+    "text": "DeSantis takeover of Florida school boards has big setback  —  At least 11 of his endorsed candidates appear to have lost Tuesday.  —  TALLAHASSEE, Florida — Gov. Ron DeSantis' attempt to elect conservative-leaning school board members across Florida hit a snag Tuesday … ",
+    "url": "https://www.politico.com/news/2024/08/20/ron-desantis-school-board-results-00175296"
+  },
+  {
+    "text": "Nonfarm payroll growth revised down by 818,000, Labor Department says  — As part of its preliminary annual benchmark revisions to the nonfarm payroll numbers, the Bureau of Labor Statistics said the actual job growth was nearly 30% less than the initially reported … WATCH NOW",
+    "url": "https://www.cnbc.com/2024/08/21/nonfarm-payroll-growth-revised-down-by-818000-labor-department-says.html"
   },
   {
     "text": "Trump's claims about violent crime increasingly diverge from reality  —  From cherry-picked data to imaginary anecdotes, Trump presents a bleak vision of an obviously non-existent America.  —  On Tuesday, as former president Donald Trump was making remarks at a Michigan sheriff's office … ",
     "url": "https://www.washingtonpost.com/politics/2024/08/21/trump-crime-fear/"
+  },
+  {
+    "text": "Justice Department signals plan to salvage obstruction charges in some Jan. 6 cases  —  Prosecutors still see a path to conviction for some defendants, even while dropping the charge in other cases following a Supreme Court ruling.  —  The Justice Department said Wednesday it plans … ",
+    "url": "https://www.politico.com/news/2024/08/21/justice-department-jan-6-obstruction-00175412"
+  },
+  {
+    "text": "Pelosi makes no apologies at DNC for her role in Biden's ouster  —  The DNC is also serving as something of a no-apologies tour for the former House speaker who has been meme-d for her role in getting Biden to decide not to seek reelection.  —  CHICAGO — Rep. Nancy Pelosi (D-Calif.) … ",
+    "url": "https://www.washingtonpost.com/politics/2024/08/21/nancy-pelosi-democratic-national-convention-joe-biden/"
   },
   {
     "text": "Bill Pascrell, longtime N.J. congressman and fierce Trump critic, dies at 87  —  The Democrat's four decades in rough-and-tumble New Jersey politics prepared him well for one of his most visible roles: Donald Trump antagonizer.  —  WASHINGTON — Democratic Rep. Bill Pascrell … ",
@@ -88,15 +92,19 @@
     "url": "https://www.cbsnews.com/news/tiananmen-square-activist-accused-chinese-intelligence/"
   },
   {
-    "text": "Pelosi makes no apologies at DNC for her role in Biden's ouster  —  The DNC is also serving as something of a no-apologies tour for the former House speaker who has been meme-d for her role in getting Biden to decide not to seek reelection.  —  CHICAGO — Rep. Nancy Pelosi (D-Calif.) … ",
-    "url": "https://www.washingtonpost.com/politics/2024/08/21/nancy-pelosi-democratic-national-convention-joe-biden/"
-  },
-  {
     "text": "Big Crypto, Big Spending: Crypto Corporations Spend an Unprecedented $119 Million Influencing Elections  —  Key Findings  — In 2024, crypto corporations have poured over $119 million directly into influencing federal elections, primarily into a non-partisan super PAC dedicated … ",
     "url": "https://www.citizen.org/article/big-crypto-big-spending-2024/"
   },
   {
+    "text": "Trump sets the stage for another coup attempt  —  🚨 This special, five-edition week of PN is made possible by paid subscribers 🚨 If you aren't one already, please sign up to support our independent journalism.  —  🚀 Subscribe to Public Notice 🚀",
+    "url": "https://www.publicnotice.co/p/trump-second-coup-attempt-2024"
+  },
+  {
     "text": "Playbook PM: Game night for Coach Walz  —  SAD DAY IN PATERSON — “Bill Pascrell, fiery New Jersey Rep., dies at 87,” by Dustin Racioppi and Matt Friedman: “The 14-term [BILL PASCRELL JR.] was poised to become the oldest House member in 2025. ...  Pascrell was a voluble presence at home in New Jersey or in Washington.",
     "url": "https://www.politico.com/newsletters/playbook-pm/2024/08/21/game-night-for-coach-walz-00132333"
+  },
+  {
+    "text": "Oath Keepers lawyer pleads guilty to ordering militia to destroy evidence after Capitol riot  —  Kellye SoRelle, of Texas, pleaded guilty to one felony count of obstruction of justice.  —  WASHINGTON — A Texas woman who served as the former general counsel for the Oath Keepers pleaded guilty Wednesday … ",
+    "url": "https://www.wusa9.com/article/news/national/capitol-riots/oath-keepers-lawyer-pleads-guilty-to-ordering-militia-to-destroy-evidence-after-capitol-riot-kellye-sorelle-stewart-rhodes/65-c1bab370-f4f0-4fad-8ed7-8e995b634f7c"
   }
 ]
