@@ -1,21 +1,5 @@
 [
   {
-    "text": "Trump allies alarmed by far-right activist's influence on him … - “Marjorie Taylor Greene is right. … - Greene, a GOP firebrand known for her politically provocative speeches in Congress, has had a series of disagreements with Loomer long before this week.",
-    "url": "https://www.axios.com/2024/09/13/trump-allies-far-right-activist-loomer"
-  },
-  {
-    "text": "Fox News cleans up another Trump mess  —  After the debate, the network worked to keep the MAGA faithful in a state of blissful ignorance.  —  The reviews were almost universally savage after Donald Trump's debate debacle, in which the former president ranted about migrants eating pets … ",
-    "url": "https://www.washingtonpost.com/opinions/2024/09/13/fox-news-debate-coverage-trump-harris/"
-  },
-  {
-    "text": "Trump Is Losing The Post-Debate Debate, Too  —  Donald Trump has an announcement: He won the first debate against Kamala Harris so handily, and was praised so universally for doing so, that he really doesn't see a need to take the stage with her again.  —  “When a prizefighter loses a fight … ",
-    "url": "https://www.thebulwark.com/p/trump-is-losing-the-post-debate-debate"
-  },
-  {
-    "text": "MAGA Scrambles to Excuse Trump Chickening Out of Second Debate … Donald Trump flubbed the last debate.  His allies know it, his fundraisers know it—but that doesn't mean they're willing to admit it.  —  On Thursday, the Republican presidential nominee announced that he had decided … ",
-    "url": "https://newrepublic.com/post/185935/maga-scrambles-donald-trump-second-debate"
-  },
-  {
     "text": "Trump uses harsher rhetoric to describe Haitians in Ohio  —  Trump doubled down Friday, promising that “the largest deportation in the history of our country” would “start with Springfield.”  —  Former President Donald Trump used increasingly harsh rhetoric Friday in describing Haitian migrants in Ohio … ",
     "url": "https://www.politico.com/news/2024/09/13/trump-haitians-ohio-pets-00179147"
   },
@@ -28,8 +12,28 @@
     "url": "https://www.nbcnews.com/news/us-news/bomb-threats-force-second-consecutive-day-school-closures-springfield-rcna171043"
   },
   {
+    "text": "Fox News cleans up another Trump mess  —  After the debate, the network worked to keep the MAGA faithful in a state of blissful ignorance.  —  The reviews were almost universally savage after Donald Trump's debate debacle, in which the former president ranted about migrants eating pets … ",
+    "url": "https://www.washingtonpost.com/opinions/2024/09/13/fox-news-debate-coverage-trump-harris/"
+  },
+  {
+    "text": "Trump Is Losing The Post-Debate Debate, Too  —  Donald Trump has an announcement: He won the first debate against Kamala Harris so handily, and was praised so universally for doing so, that he really doesn't see a need to take the stage with her again.  —  “When a prizefighter loses a fight … ",
+    "url": "https://www.thebulwark.com/p/trump-is-losing-the-post-debate-debate"
+  },
+  {
     "text": "If True, the ABC News Presidential Debate Could Be Rocked by Explosive Scandal  —  Anyone who watched the presidential debate hosted by ABC News on Tuesday knows that the moderators were biased and repeatedly fact-checked Trump while letting Kamala Harris's lies go unchallenged.",
     "url": "https://pjmedia.com/matt-margolis/2024/09/12/if-true-the-abc-news-presidential-debate-could-be-rocked-by-explosive-scandal-n4932479"
+  },
+  {
+    "text": "MAGA Scrambles to Excuse Trump Chickening Out of Second Debate … Donald Trump flubbed the last debate.  His allies know it, his fundraisers know it—but that doesn't mean they're willing to admit it.  —  On Thursday, the Republican presidential nominee announced that he had decided … ",
+    "url": "https://newrepublic.com/post/185935/maga-scrambles-donald-trump-second-debate"
+  },
+  {
+    "text": "Trump allies alarmed by far-right activist's influence on him … - “Marjorie Taylor Greene is right. … - Greene, a GOP firebrand known for her politically provocative speeches in Congress, has had a series of disagreements with Loomer long before this week.",
+    "url": "https://www.axios.com/2024/09/13/trump-allies-far-right-activist-loomer"
+  },
+  {
+    "text": "Trump shrugs off Loomer association: 'I don't control Laura'  —  Former President Trump shrugged off a question about his association with far-right activist Laura Loomer as some of his Republican allies sound the alarm about her influence, saying Friday she brings “a spirit” to his campaign.",
+    "url": "https://thehill.com/homenews/campaign/4878970-trump-laura-loomer-association/"
   },
   {
     "text": "Pope Francis criticizes Trump and Harris and says voters must choose between ‘lesser of two evils’  —  Pope Francis on Friday described the choice US voters must make in the presidential election as one between the “lesser of two evils,” deeming former President Donald Trump's anti-migrant policies … ",
@@ -44,10 +48,6 @@
     "url": "https://www.latimes.com/politics/story/2024-09-13/2024-election-trump-rancho-palos-verdes-news-conference"
   },
   {
-    "text": "Trump threatens to cut off California wildfire aid if Newsom doesn't change water policy  —  Former President Trump threatened to withhold federal aid to battle California wildfires, should he be reelected, if Gov. Gavin Newsom (D) does not change a policy that protects an endangered species of fish.",
-    "url": "https://thehill.com/homenews/campaign/4879150-trump-threatens-wildfire-aid-newsom-smelt/"
-  },
-  {
     "text": "Christian Conservatives Face Reality: Increasingly, They Stand Alone  —  As opposition to their agenda grows, especially on abortion, many conservatives are grappling with how to handle this new uncertain political world.  —  Conservative Christians are expected to vote overwhelmingly … ",
     "url": "https://www.nytimes.com/2024/09/13/us/christian-conservatives-beliefs-election.html?unlocked_article_code=1.KU4.nSgH.FVGwZFnRhtEm&smid=url-share"
   },
@@ -56,12 +56,12 @@
     "url": "https://www.politico.com/news/2024/09/13/florida-abortion-amendment-anna-paulina-luna-00179066"
   },
   {
-    "text": "Texas comes for the right to interstate travel  —  States' rights for me, not for thee. … During Tuesday's debate, as Donald Trump tried to take credit for the demise of Roe while pretending a second Trump administration wouldn't obliterate abortion protections at a national level … ",
-    "url": "https://www.publicnotice.co/p/texas-medical-records-abortion"
-  },
-  {
     "text": "Martha Stewart Just Quietly Made a Rare Presidential Endorsement  —  ‘KEEP IT QUIET’  —  After declining to endorse a candidate in 2020, Stewart has finally broken her silence on the 2024 election. … Martha Stewart has finally weighed in on the 2024 election and endorsed a candidate.",
     "url": "https://www.thedailybeast.com/martha-stewart-just-quietly-endorsed-kamala-harris-for-president"
+  },
+  {
+    "text": "Texas comes for the right to interstate travel  —  States' rights for me, not for thee. … During Tuesday's debate, as Donald Trump tried to take credit for the demise of Roe while pretending a second Trump administration wouldn't obliterate abortion protections at a national level … ",
+    "url": "https://www.publicnotice.co/p/texas-medical-records-abortion"
   },
   {
     "text": "The ‘feral 25-year-olds’ making Kamala Harris go viral on TikTok  —  Harris's “digital rapid response” operation and all-Gen-Z TikTok team are tapping the trends and rhythms of internet culture to create an online presence that's unique in presidential politics.",
