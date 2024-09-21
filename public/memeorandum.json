@@ -20,10 +20,6 @@
     "url": "https://www.motherjones.com/politics/2024/09/repbulican-georgia-election-board-hand-count-rules-election-chaos/"
   },
   {
-    "text": "Fact check: Springfield had more murders under Trump than under Biden-Harris  —  Facing intense criticism for promoting false claims that Haitian immigrants in Springfield, Ohio, are abducting and eating other residents' pets, Sen. JD Vance has tried to pivot by blaming Vice President Kamala Harris … ",
-    "url": "https://www.cnn.com/2024/09/20/politics/fact-check-springfield-had-more-murders-under-trump-than-under-biden-harris/"
-  },
-  {
     "text": "Nebraska switch to winner-take-all electoral votes unlikely before election, despite pressure  —  How a bill becomes a law in the Nebraska Legislature  —  LINCOLN — Nebraska appears unlikely to adopt a winner-take-all model of awarding Electoral College votes, despite renewed pressure … ",
     "url": "https://omaha.com/news/state-regional/government-politics/elections/nebraska-switch-to-winner-take-all-electoral-votes-unlikely-before-election-despite-pressure/article_f5019672-76b6-11ef-bc6b-07ad1d5a3030.html"
   },
@@ -34,6 +30,10 @@
   {
     "text": "Trump Media skids to new low on the first day the former president can sell his shares  —  Shares of Trump Media & Technology Group slumped to their lowest level ever Friday, the first trading day that its biggest shareholder, former President Donald Trump, is free to sell his stake in the company behind the Truth Social platform.",
     "url": "https://apnews.com/article/trump-media-shares-donald-trump-truth-social-82d8839bb5f5a96e93e2404399ead072"
+  },
+  {
+    "text": "Ramaswamy shrugs off GOP ‘mistakes’ in Springfield migrant claims  —  Former Republican presidential candidate Vivek Ramaswamy shrugged off Republicans' “mistakes” in making false claims about Haitians in Springfield, Ohio, attacking the media for focusing on a “fringe aspect” of a larger story.",
+    "url": "https://thehill.com/homenews/state-watch/4891803-ramaswamy-springfield-haitians-false-claims/"
   },
   {
     "text": "Constellation Energy to restart Three Mile Island nuclear plant, sell the power to Microsoft for AI … WATCH NOW  —  Constellation Energy plans to restart the Three Mile Island nuclear plant and will sell the power to Microsoft, demonstrating the immense energy needs of the tech sector … ",
@@ -76,15 +76,11 @@
     "url": "https://people.com/sean-diddy-combs-placed-on-suicide-watch-while-awaiting-trial-mental-state-unclear-source-8715686"
   },
   {
-    "text": "Elon Musk steps up political giving with six-figure donation to House Republicans  —  The August contribution is more than Musk has previously given to a party committee.  —  Controversial tech magnate Elon Musk stepped up his political giving in August, giving his largest-known political donation ever … ",
-    "url": "https://www.politico.com/news/2024/09/20/elon-musk-political-donations-00180323"
-  },
-  {
-    "text": "‘I agonized over it’: Behind the scenes with the reporter who uncovered the RFK Jr./Olivia Nuzzi story  — One of the country's most high-profile journalists says she had a “personal” relationship with RFK Jr.  — Now Olivia Nuzzi is on leave from New York magazine, where she's written many buzzy political stories.",
-    "url": "https://www.businessinsider.com/robert-f-kennedy-jr-rfk-olivia-nuzzi-oliver-darcy-interview-2024-9"
-  },
-  {
     "text": "New York City sheriff under investigation as Adams' inner circle faces federal probes  —  Anthony Miranda oversees the city's enforcement of unlicensed cannabis shops.  —  NEW YORK — The New York City Department of Investigation is probing the city Sheriff's Office and the man who leads it … ",
     "url": "https://www.politico.com/news/2024/09/20/new-york-city-sheriff-investigation-eric-adams-inner-circle-00180334"
+  },
+  {
+    "text": "House Republicans work to defuse Trump as they defy shutdown demands  —  GOP appropriators have been calling their presidential nominee, trying to convince him his calls to shut down the government over a voting bill are a bad idea.  —  House Republicans are typically hesitant to defy Donald Trump.",
+    "url": "https://www.politico.com/news/2024/09/20/house-gop-trump-shutdown-00180243"
   }
 ]
