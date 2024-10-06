@@ -4,16 +4,16 @@
     "url": "https://www.nytimes.com/2024/10/06/us/politics/trump-speeches-age-cognitive-decline.html?unlocked_article_code=1.QE4.Sj6N.wDMvFD_Cmj4k&smid=url-share"
   },
   {
-    "text": "Mike Johnson refuses to say Donald Trump lost the 2020 election to Joe Biden  —  House Speaker Mike Johnson, R-La., on Sunday refused to say former President Donald Trump lost the 2020 election to President Joe Biden.  —  During a heated interview with ABC News' George Stephanopoulos … ",
-    "url": "https://www.usatoday.com/story/news/politics/elections/2024/10/06/johnson-trump-lost-2020-election-biden/75544144007/"
-  },
-  {
     "text": "Election Skeptics Are Running Some County Election Boards in Georgia.  A New Rule Could Allow Them to Exclude Decisive Votes.  —  An examination of a new election rule in Georgia suggests that local officials in just a handful of rural counties could exclude enough votes to affect the outcome of the 2024 presidential race.",
     "url": "https://www.propublica.org/article/georgia-election-rule-could-exclude-votes"
   },
   {
     "text": "Republicans are trying to up their early voting game — but Trump keeps getting in the way  —  The former president's rhetoric threatens to undermine a massive get-out-the-vote effort, some Republican strategists say.  —  Republicans are pouring tens of millions of dollars into getting GOP voters to cast ballots before Election Day.",
     "url": "https://www.politico.com/news/2024/10/06/trumps-early-voting-00182611"
+  },
+  {
+    "text": "Mike Johnson refuses to say Donald Trump lost the 2020 election to Joe Biden  —  House Speaker Mike Johnson, R-La., on Sunday refused to say former President Donald Trump lost the 2020 election to President Joe Biden.  —  During a heated interview with ABC News' George Stephanopoulos … ",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2024/10/06/johnson-trump-lost-2020-election-biden/75544144007/"
   },
   {
     "text": "Harris Will Appear in a Whirlwind of Interviews, Most of Them Friendly  —  After mostly avoiding interviews as her campaign began, the vice president will hold several this week, including with Howard Stern, Stephen Colbert and the hosts of “The View.”  —  Vice President Kamala Harris … ",
@@ -28,6 +28,10 @@
     "url": "https://www.rawstory.com/inside-donald-trump-jr-s-plan-for-building-the-new-republican-party-report/"
   },
   {
+    "text": "Fact check: Six days of Trump lies about the Hurricane Helene response  —  Former President Donald Trump has delivered a barrage of lies and distortions about the federal response to Hurricane Helene.  —  While various misinformation about the response has spread widely without Trump's involvement … ",
+    "url": "https://www.cnn.com/2024/10/06/politics/fact-check-trump-helene-response-north-carolina/"
+  },
+  {
     "text": "Tim Walz Easily Bats Down Fox Anchor's Anti-Abortion Questions  —  Shannon Bream tried to frame the vice presidential nominee as an extremist on abortion.  He didn't let her  —  Gov. Tim Walz vociferously defended his record on abortion rights during an appearance on Fox News Sunday.",
     "url": "https://www.rollingstone.com/politics/politics-news/tim-walz-fox-anchor-abortion-law-1235127283/"
   },
@@ -40,16 +44,12 @@
     "url": "https://www.politico.com/news/2024/10/06/senate-republican-ad-spending-map-uneven-00182625"
   },
   {
-    "text": "Fact check: Six days of Trump lies about the Hurricane Helene response  —  Former President Donald Trump has delivered a barrage of lies and distortions about the federal response to Hurricane Helene.  —  While various misinformation about the response has spread widely without Trump's involvement … ",
-    "url": "https://www.cnn.com/2024/10/06/politics/fact-check-trump-helene-response-north-carolina/"
+    "text": "Florida prepares to evacuate millions of people ahead of another potential hurricane  —  The state is still recovering from Helene, which made landfall less than two weeks ago.  —  TALLAHASSEE, Florida — Florida is facing the threat of another major hurricane making landfall in the state … ",
+    "url": "https://www.politico.com/news/2024/10/06/florida-hurricane-milton-evacuations-recovery-00182622"
   },
   {
     "text": "October 5, 2024  —  William McKinley is having a moment (which I confess is a sentence I never expected to write).  —  Republican presidential nominee Donald Trump is elevating McKinley, representative from Ohio from 1877 to 1891 and president from 1897 to 1901, to justify his plan to impose new high tariffs.",
     "url": "https://heathercoxrichardson.substack.com/p/october-5-2024"
-  },
-  {
-    "text": "Florida prepares to evacuate millions of people ahead of another potential hurricane  —  The state is still recovering from Helene, which made landfall less than two weeks ago.  —  TALLAHASSEE, Florida — Florida is facing the threat of another major hurricane making landfall in the state … ",
-    "url": "https://www.politico.com/news/2024/10/06/florida-hurricane-milton-evacuations-recovery-00182622"
   },
   {
     "text": "New York Dems are queasy over Cuomo's potential comeback  —  Cuomo's history of hardball politics haunts Democrats.  —  NEW YORK — Andrew Cuomo wants out of the political wilderness.  Many fellow New York Democrats wish he would stay there.  —  Concern over Cuomo possibly running … ",
@@ -74,9 +74,5 @@
   {
     "text": "Mark Kelly on Harris: 'I'm confident she's going to win Arizona'  —  Sen. Mark Kelly (D-Ariz.) said on Sunday he's confident Vice President Harris is going to win his state of Arizona and the race overall.  —  In an interview on CNN's “State of the Union,” anchor Dana Bash pressed … ",
     "url": "https://thehill.com/homenews/campaign/4918284-mark-kelly-confident-kamala-harris-win-arizona/"
-  },
-  {
-    "text": "Mossad's pager operation: Inside Israel's penetration of Hezbollah  —  New details emerge of Israel's elaborate plan to sabotage Hezbollah communications devices to kill or maim thousands of its operatives.  —  TEL AVIV — In the initial sales pitch to Hezbollah two years ago … ",
-    "url": "https://www.washingtonpost.com/world/2024/10/05/israel-mossad-hezbollah-pagers-nasrallah/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzI4MTAwODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzI5NDgzMTk5LCJpYXQiOjE3MjgxMDA4MDAsImp0aSI6ImIxYzQ1YjZlLWYzMmItNGRiYy05YjkzLWFjN2UwODNkNWNkMSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzEwLzA1L2lzcmFlbC1tb3NzYWQtaGV6Ym9sbGFoLXBhZ2Vycy1uYXNyYWxsYWgvIn0.W7Fqcro3Gkry8Hq4ESS06CD70aK2STZDHQ4YHO4Q7BM"
   }
 ]
