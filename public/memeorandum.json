@@ -1,9 +1,5 @@
 [
   {
-    "text": "Swing State Poll 2024: Pennsylvania, Michigan, Wisconsin: Blue Wall Shows Cracks As Race Tightens, Quinnipiac University Poll Finds; U.S. Senate Races: Michigan Moves To Toss-Up, Dems Lead In PA & WI  —  mail_outline  —  PENNSYLVANIA: Harris 49%, Trump 46%, other candidates 2%",
-    "url": "https://poll.qu.edu/poll-release?releaseid=3913"
-  },
-  {
     "text": "Trump ends speculation on another debate: ‘There will be no rematch’  —  The former president is turning down both invitations from Fox News and CNN.  —  Donald Trump is making it clear: He doesn't want a second debate, regardless of which network is hosting.",
     "url": "https://www.politico.com/news/2024/10/09/trump-harris-debate-no-rematch-00183179"
   },
@@ -12,8 +8,12 @@
     "url": "https://www.nbcnews.com/politics/2024-election/trump-ramps-personal-attacks-kamala-harris-scranton-rally-rcna174292"
   },
   {
-    "text": "Harris makes impromptu call into CNN, says Trump's hurricane comments ‘dangerous’  —  Vice President Harris called into CNN on Wednesday to talk about Hurricane Milton as it approaches Florida, bashing former President Trump for his comments about the federal government's response to the latest storms.",
-    "url": "https://thehill.com/homenews/administration/4924499-kamala-harris-impromptu-cnn-call-hurricane-milton/"
+    "text": "Trump rejects Fox News invite to debate Harris in late October  —  Republican former President Donald Trump said on Wednesday he will not debate Democratic Vice President Kamala Harris, hours after Fox News invited the two presidential contenders to participate in a possible second debate on either Oct. 24 or Oct. 27.",
+    "url": "https://www.reuters.com/world/us/fox-news-proposes-dates-possible-second-trump-harris-debate-2024-10-09/"
+  },
+  {
+    "text": "Swing State Poll 2024: Pennsylvania, Michigan, Wisconsin: Blue Wall Shows Cracks As Race Tightens, Quinnipiac University Poll Finds; U.S. Senate Races: Michigan Moves To Toss-Up, Dems Lead In PA & WI  —  mail_outline  —  PENNSYLVANIA: Harris 49%, Trump 46%, other candidates 2%",
+    "url": "https://poll.qu.edu/poll-release?releaseid=3913"
   },
   {
     "text": "Susan Rice: Trump's reported calls with Putin appear illegal  —  Former White House adviser and United Nations ambassador Susan Rice called out former President Trump over a report that he has spoken with Russian President Vladimir Putin at least seven times since leaving office, suggesting such calls would violate the Logan Act.",
@@ -44,32 +44,36 @@
     "url": "https://www.nytimes.com/live/2024/10/09/us/harris-trump-election"
   },
   {
-    "text": "Adam Schiff Perfectly Leaves Trumpy Opponent ‘Speechless’ During Debate  —  California Rep. Adam Schiff and Steve Garvey are vying for the late Diane Feinstein's Senate seat.  Garvey, a Trumper with no political experience, was left “speechless” at one point in the debate.",
-    "url": "https://crooksandliars.com/2024/10/adam-schiff-perfectly-leaves-trumpy"
-  },
-  {
     "text": "JD Vance Owns Company That Sells American Real Estate to Foreign Investors?  —  The Ohio senator's venture capital fund invested in the app AcreTrader.  —  In early October 2024, several social media accounts supporting U.S. Vice President Kamala Harris shared a copypasta meme alleging … ",
     "url": "https://www.snopes.com/news/2024/10/08/jd-vance-acretrader/"
   },
   {
-    "text": "Trump has long blasted China's trade practices.  His ‘God Bless the USA’ Bibles were printed there  —  Thousands of copies of Donald Trump's “God Bless the USA” Bible were printed in a country that the former president has repeatedly accused of stealing American jobs and engaging in unfair trade practices — China.",
-    "url": "https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c"
-  },
-  {
-    "text": "Readout of President Joe Biden's Call with Prime Minister Netanyahu of Israel  —  President Biden spoke this morning with Prime Minister Netanyahu of Israel.  Vice President Harris joined the call.  The President affirmed his ironclad commitment to Israel's security.",
-    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/readout-of-president-joe-bidens-call-with-prime-minister-netanyahu-of-israel-9/"
+    "text": "Adam Schiff Perfectly Leaves Trumpy Opponent ‘Speechless’ During Debate  —  California Rep. Adam Schiff and Steve Garvey are vying for the late Diane Feinstein's Senate seat.  Garvey, a Trumper with no political experience, was left “speechless” at one point in the debate.",
+    "url": "https://crooksandliars.com/2024/10/adam-schiff-perfectly-leaves-trumpy"
   },
   {
     "text": "Trump ‘Bidenomics’ ad shows a Philly-area mom who really supports Kamala Harris  —  Kimberly Burrell sat among a group of loved ones of Philadelphia's gun violence victims in July for an interview with a national television reporter.The gathering took place around the anniversary of the death … ",
     "url": "https://www.inquirer.com/opinion/donald-trump-political-ad-kimberly-burrell-20241009.html"
   },
   {
-    "text": "Democrats start to hit the panic button  —  Democrats' nerves are at an all-time high.  —  Two months ago — even a month ago — they were feeling bullish about Vice President Harris's prospects of defeating former President Trump.  —  But now, with less than a month to go until Election Day … ",
-    "url": "https://thehill.com/homenews/campaign/4922690-democrats-nervous-kamala-harris-campaign/"
+    "text": "Readout of President Joe Biden's Call with Prime Minister Netanyahu of Israel  —  President Biden spoke this morning with Prime Minister Netanyahu of Israel.  Vice President Harris joined the call.  The President affirmed his ironclad commitment to Israel's security.",
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/readout-of-president-joe-bidens-call-with-prime-minister-netanyahu-of-israel-9/"
+  },
+  {
+    "text": "Harris Campaign Names Republicans Who Voted Against FEMA Funding  —  who voted against Federal Emergency Management Agency (FEMA) funding two weeks ago.  —  The vote was part of a $20 billion package on September 25.  The bill passed both the House and Senate",
+    "url": "https://www.newsweek.com/kamala-harris-republicans-voting-against-fema-1965493"
+  },
+  {
+    "text": "Trump has long blasted China's trade practices.  His ‘God Bless the USA’ Bibles were printed there  —  Thousands of copies of Donald Trump's “God Bless the USA” Bible were printed in a country that the former president has repeatedly accused of stealing American jobs and engaging in unfair trade practices — China.",
+    "url": "https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c"
   },
   {
     "text": "Trump Pledges to End ‘Double Taxation’ of Americans Abroad  —  The idea is the latest from Republican nominee that goes beyond extending 2017 tax law  —  WASHINGTON—Republican presidential nominee Donald Trump said he supports lowering taxes on U.S. citizens who live abroad … ",
     "url": "https://www.wsj.com/politics/policy/donald-trump-tax-plan-americans-abroad-a74bfbdd"
+  },
+  {
+    "text": "Democrats start to hit the panic button  —  Democrats' nerves are at an all-time high.  —  Two months ago — even a month ago — they were feeling bullish about Vice President Harris's prospects of defeating former President Trump.  —  But now, with less than a month to go until Election Day … ",
+    "url": "https://thehill.com/homenews/campaign/4922690-democrats-nervous-kamala-harris-campaign/"
   },
   {
     "text": "Democrats can't make Georgia governor investigate State Election Board, judge says  —  The Republican-led board recently passed changes to election rules, including an election night hand count of ballots and a rule requiring a “reasonable inquiry”  —  A Fulton County judge dismissed … ",
@@ -84,19 +88,15 @@
     "url": "https://newrepublic.com/article/186965/fake-autoworkers-trump-exposed-vance"
   },
   {
-    "text": "Tim Johnson, former Senate Banking chair, dies at 77  —  The South Dakota Democrat served on the Hill for almost three decades.  —  Former Senate Banking Chair Tim Johnson died at 77 Tuesday following complications from a stroke.  —  The South Dakota Democrat retired in 2015 … ",
-    "url": "https://www.politico.com/news/2024/10/09/former-senate-banking-chair-johnson-dies-at-77-00183020"
+    "text": "Russia has suffered more than 600K casualties in Ukraine, US official says  —  Russia has suffered more than 600,000 casualties in the war with Ukraine, a senior U.S. defense official said Wednesday.  —  The number of Russian dead or wounded is significantly higher than the last official update … ",
+    "url": "https://thehill.com/policy/defense/4924544-russia-casualties-ukraine-us-official/"
   },
   {
     "text": "In the pantheon of first lady memoirs, Melania Trump's is something else  —  The dominant theme of “Melania” is one of graceful grievance.  —  Depending on how you define “memoir” — must it be a coherent narrative, or does a posthumous collection of diary entries suffice? … ",
     "url": "https://www.washingtonpost.com/books/2024/10/08/melania-trump-memoir-review/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzI4MzYwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzI5NzQyMzk5LCJpYXQiOjE3MjgzNjAwMDAsImp0aSI6ImQ0NmMwMzlkLTM1N2UtNDk0OS1iZWQ0LTczNDViZWVhZjgyNiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9ib29rcy8yMDI0LzEwLzA4L21lbGFuaWEtdHJ1bXAtbWVtb2lyLXJldmlldy8ifQ.LyGCKEfIFBYmhDxZJ_6mE9ky-8BKqeRBqWP8qA1NPmg&itid=gfta"
   },
   {
-    "text": "Kamala's Media Blitz is Incredible, Press Coverage is Awful  —  We all deserve better  —  While Trump is spouting dangerous hurricane lies in a desperate bid to scare people into voting for him, Kamala Harris is out there absolutely crushing it.  —  With appearances this week on 60 Minutes … ",
-    "url": "https://www.dworkinsubstack.com/p/kamalas-media-blitz-is-incredible"
-  },
-  {
-    "text": "The Moment of Truth … Last november, during a symposium at Mount Vernon on democracy, John Kelly, the retired Marine Corps general who served as Donald Trump's second chief of staff, spoke about George Washington's historic accomplishments—his leadership and victory in the Revolutionary War … ",
-    "url": "https://www.theatlantic.com/magazine/archive/2024/11/george-washington-nightmare-donald-trump/679946/?gift=mBLCHcnsd_Gd3EecvWSKTVWmBt18XO-ATC6rbb2Qz0s&utm_source=copy-link&utm_medium=social&utm_campaign=share"
+    "text": "Dozens of Democrats join push to strong-arm Mike Johnson … - Johnson, however, said during a trip to North Carolina on Wednesday that “it will take some time” for states to calculate the extent of their financial need.  — Pointing to the stopgap spending bill the House passed last month … ",
+    "url": "https://www.axios.com/2024/10/09/dozens-of-democrats-join-push-to-strong-arm-mike-johnson"
   }
 ]
