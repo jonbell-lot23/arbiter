@@ -2,7 +2,7 @@ name: Scrape memeorandum
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/59 * * * *'
   workflow_dispatch: 
 
 jobs:
