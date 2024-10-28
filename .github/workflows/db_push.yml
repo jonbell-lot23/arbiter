@@ -2,7 +2,7 @@ name: Push to DB
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/45 * * * *'
   workflow_dispatch:
 
 jobs:
