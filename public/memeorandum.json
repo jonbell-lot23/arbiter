@@ -1,7 +1,19 @@
 [
   {
+    "text": "Live Presidential Forecast  —  Our election model estimates the outcome of the race in real time based on polling data, the votes reported so far and what we expect from remaining votes.  Read how it works ›  —  Chance of winning  —  No estimates yet",
+    "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html"
+  },
+  {
+    "text": "With Harris' path to victory narrowing, Trump declares victory  —  ABC News has not projected a winner in the presidential race.  —  Republican presidential nominee, former U.S. President Donald Trump arrives to speak during an election night event, Nov. 6, 2024, in West Palm Beach, Florida.",
+    "url": "https://abcnews.go.com/Politics/harris-path-victory-narrowing-trump-declares-victory/story?id=115543903"
+  },
+  {
     "text": "Harris defeats Trump in Virginia  —  Vice President Harris has won Virginia, maintaining Democrats' control of the state at the presidential level despite some Republican inroads in recent years, according to a projection from Decision Desk HQ.  —  Polls in the run-up to Election … ",
     "url": "https://thehill.com/homenews/campaign/4964243-kamala-harris-wins-virginia/"
+  },
+  {
+    "text": "Live 2024 Election Results Map: Harris vs. Trump  —  The race for the White House will likely be decided in the seven battleground states.  It could take days for officials to count enough votes to determine who won.  —  to win  —  60,068,009 votes (47.4%)  —  64,863,958 votes (51.2%)  —  Dem.",
+    "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president.html"
   },
   {
     "text": "NBC News Exit Poll: Voters express deep concern about America's democracy and economy  —  Women are twice as likely as men to rank abortion as their top issue, according to preliminary results from the national survey.  —  The state of democracy and the economy in the United States … ",
@@ -12,28 +24,16 @@
     "url": "https://www.nbcnews.com/politics/2024-election/live-blog/presidential-election-2024-live-updates-rcna175556/rcrd62776?canonicalCard=true"
   },
   {
-    "text": "Trump is doing better than 2020 all across the board so far  —  One trend is coming in clear across the more than 1,300 counties that have reported close to complete results already: Donald Trump is improving on his 2020 margins.  While most of these counties aren't in the battlegrounds, they reveal a consistent shift toward Trump.",
-    "url": "https://www.politico.com/live-updates/2024/11/05/2024-election-results-live-coverage-updates-analysis/trump-harris-counties-2020-comparison-00187667"
-  },
-  {
     "text": "AP VoteCast: Harris voters motivated by democracy, Trump supporters by inflation and immigration  —  Voters for Kamala Harris and Donald Trump who cast their ballots for Tuesday's presidential election had vastly different motivations — reflecting a broader national divide on the problems the United States faces.",
     "url": "https://apnews.com/article/ap-votecast-elections-harris-trump-voters-d5cf4e3611f50ec4349d93ddc7f037cd"
   },
   {
-    "text": "Live Presidential Forecast  —  Our election model estimates the outcome of the race in real time based on polling data, the votes reported so far and what we expect from remaining votes.  Read how it works ›  —  Chance of winning  —  No estimates yet",
-    "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html"
-  },
-  {
-    "text": "Election Live Updates: A Caustic and Turbulent Race Is in Voters' Hands  — Polls in parts of Indiana and Kentucky have closed, and voting ends in six more states including Georgia, a key battleground, at 7 p.m. Eastern time.  Turnout looked strong in an election that Vice President Kamala Harris … ",
-    "url": "https://www.nytimes.com/live/2024/11/05/us/trump-harris-election"
+    "text": "Live House election results for 2024 races  —  House elections live balance of power for 2024  —  All 435 seats in the U.S. House of Representatives are on the ballot on Election Day, and whichever party wins control of the House will likely have a slim majority, making every seat crucial to a majority.",
+    "url": "https://www.cbsnews.com/live-updates/house-election-results-2024/"
   },
   {
     "text": "What a GOP congressional majority could mean for a Trump presidency  —  One senator said voters are giving Republicans “an extraordinary opportunity.”  —  Ohio Republican Senate candidate Bernie Moreno during a watch party on election night, Nov. 5, 2024, in Westlake, Ohio, with his wife Bridget.",
     "url": "https://abcnews.go.com/Politics/gop-congressional-majority-trump-presidency/story?id=115548853"
-  },
-  {
-    "text": "Democrats feel 2016 all over again in Harris-Trump battle  —  Democrats started election night feeling genuinely optimistic about Vice President Harris's chance of becoming the nation's first female president.  —  But as the evening wore on and former President Trump began to surpass 200 electoral votes … ",
-    "url": "https://thehill.com/homenews/campaign/4975404-democrats-optimistic-vice-president-harris/"
   },
   {
     "text": "Florida's abortion amendment fails, leaving 6-week ban in place  —  Florida's abortion-rights ballot initiative fell short of passing on Tuesday, leaving in place a six-week abortion ban that has helped restrict access across almost all of the Southern U.S.  —  The measure's defeat … ",
@@ -42,10 +42,6 @@
   {
     "text": "Florida amendment to legalize recreational marijuana falls short  —  Despite public backing from Donald Trump, marijuana will remain legal in the state only for medical use, NBC News projects.  —  An effort to legalize the use of recreational marijuana in Florida has failed at the ballot box, NBC News projects.",
     "url": "https://www.nbcnews.com/politics/2024-election/florida-marijuana-recreational-use-ballot-measure-rejected-rcna173902"
-  },
-  {
-    "text": "Live House election results for 2024 races  —  House elections live balance of power for 2024  —  All 435 seats in the U.S. House of Representatives are on the ballot on Election Day, and whichever party wins control of the House will likely have a slim majority, making every seat crucial to a majority.",
-    "url": "https://www.cbsnews.com/live-updates/house-election-results-2024/"
   },
   {
     "text": "Election Day bomb threats disrupt voting in multiple states  —  The U.S. saw a rash of discredited bomb threats called in at polling places in multiple states on Election Day, in some cases spurring the need for extended voting hours.  —  Faulty bomb threats were called into at least five states … ",
@@ -60,8 +56,8 @@
     "url": "https://www.cnn.com/2024/11/05/media/trump-revokes-journalists-election-night-credentials/"
   },
   {
-    "text": "Israel's Netanyahu dismisses his defense minister as wars rage.  Protests erupt across country  —  Israeli Prime Minister Benjamin Netanyahu on Tuesday dismissed his popular defense minister, Yoav Gallant, in a surprise announcement that came as the country is embroiled in wars on multiple fronts across the region.",
-    "url": "https://apnews.com/article/israel-netanyahu-gallant-gaza-war-lebanon-3810d3adb1603e8485b4be46a5b79f8b"
+    "text": "Election Live Updates: A Caustic and Turbulent Race Is in Voters' Hands  — Polls in parts of Indiana and Kentucky have closed, and voting ends in six more states including Georgia, a key battleground, at 7 p.m. Eastern time.  Turnout looked strong in an election that Vice President Kamala Harris … ",
+    "url": "https://www.nytimes.com/live/2024/11/05/us/trump-harris-election"
   },
   {
     "text": "Moreno ousts Brown in Ohio Senate race  —  Republican businessman Bernie Moreno has defeated incumbent Sen. Sherrod Brown (D-Ohio), the chair of the Senate Banking Committee, boosting Republican chances of taking back control of the Senate.  —  Moreno, 57, who built up a successful network … ",
@@ -70,6 +66,10 @@
   {
     "text": "Andy Kim Wins in New Jersey to Become the First Korean American Senator  —  Mr. Kim, a Democrat, will take the seat previously held by Robert Menendez, who resigned after being convicted of taking bribes.  —  Representative Andy Kim was elected on Tuesday to the U.S. Senate … ",
     "url": "https://www.nytimes.com/2024/11/05/nyregion/nj-senate-kim-bradshaw.html"
+  },
+  {
+    "text": "Israel's Netanyahu dismisses his defense minister as wars rage.  Protests erupt across country  —  Israeli Prime Minister Benjamin Netanyahu on Tuesday dismissed his popular defense minister, Yoav Gallant, in a surprise announcement that came as the country is embroiled in wars on multiple fronts across the region.",
+    "url": "https://apnews.com/article/israel-netanyahu-gallant-gaza-war-lebanon-3810d3adb1603e8485b4be46a5b79f8b"
   },
   {
     "text": "Supreme Court: Cobb County absentee ballots must be returned by Election Day  —  The court sided with the Republican National Committee, removing the relief that a lower court ordered.  —  The Georgia Supreme Court on Monday ordered that Cobb County may only count absentee ballots received by 7 p.m. on Election Day.",
@@ -84,11 +84,11 @@
     "url": "https://www.politico.com/live-updates/2024/11/05/2024-election-results-live-coverage-updates-analysis/pennsylvania-vibe-check-early-00187540"
   },
   {
-    "text": "Arizona's Kari Lake Is Already Claiming Election Fraud  —  The night before the election, Arizona Senate candidate Kari Lake, a former TV anchor-turned-election truther, thanked her supporters for voting early—something she has long railed against.  —  Prescott, AZ — Kari Lake stood … ",
-    "url": "https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/"
+    "text": "Fox News projects Mike Kehoe to win Missouri governor's race  —  The Republican defeated Democrat Crystal Quade and two third-party challengers  —  The Fox News Decision Desk projects Republican Lt. Gov. Mike Kehoe to win the open Missouri governor's race, defeating Democratic challenger Crystal Quade.",
+    "url": "https://www.foxnews.com/politics/fox-news-projects-mike-kehoe-win-missouri-governors-race"
   },
   {
-    "text": "Former DACA recipient wins New Mexico legislative seat, making history  —  This piece originally appeared as part of NPR's live coverage of the 2024 election.  For more election coverage from the NPR Network head to our live updates page.  —  ALBUQUERQUE — Democrat Cindy Nava … ",
-    "url": "https://www.npr.org/2024/11/06/g-s1-32862/daca-new-mexico-results-immigration-cindy-nava"
+    "text": "Arizona's Kari Lake Is Already Claiming Election Fraud  —  The night before the election, Arizona Senate candidate Kari Lake, a former TV anchor-turned-election truther, thanked her supporters for voting early—something she has long railed against.  —  Prescott, AZ — Kari Lake stood … ",
+    "url": "https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/"
   }
 ]
