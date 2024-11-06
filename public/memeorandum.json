@@ -1,9 +1,5 @@
 [
   {
-    "text": "NBC News Exit Poll: Voters express deep concern about America's democracy and economy  —  Women are twice as likely as men to rank abortion as their top issue, according to preliminary results from the national survey.  —  The state of democracy and the economy in the United States … ",
-    "url": "https://www.nbcnews.com/politics/2024-election/nbc-news-exit-poll-voters-express-concern-democracy-economy-rcna178602"
-  },
-  {
     "text": "Harris defeats Trump in Virginia  —  Vice President Harris has won Virginia, maintaining Democrats' control of the state at the presidential level despite some Republican inroads in recent years, according to a projection from Decision Desk HQ.  —  Polls in the run-up to Election … ",
     "url": "https://thehill.com/homenews/campaign/4964243-kamala-harris-wins-virginia/"
   },
@@ -12,32 +8,44 @@
     "url": "https://www.nytimes.com/live/2024/11/05/us/trump-harris-election"
   },
   {
+    "text": "Can Kamala Harris still win?  It's possible, but it's looking less likely.  —  Support independent journalism that matters — become a Vox Member today.  —  The presidential race remains too close to call, likely coming down once again to the Rust Belt trio of Michigan, Pennsylvania, and Wisconsin.",
+    "url": "https://www.vox.com/2024-elections/382807/trump-leading-harris-2024-electoral-college"
+  },
+  {
     "text": "NBC News Exit Poll: Harris loses ground with Latinos  —  NBC News Exit Poll Desk  —  Latino men are breaking for Trump by a 10-point margin, 54% to 44%, in a major reversal from four years ago, according to the NBC News Exit Poll.  In 2020, Latino men backed Biden over Trump by a 23-point margin, 59% to 36%.",
     "url": "https://www.nbcnews.com/politics/2024-election/live-blog/presidential-election-2024-live-updates-rcna175556/rcrd62776?canonicalCard=true"
   },
   {
-    "text": "AP VoteCast: Harris voters motivated by democracy, Trump supporters by inflation and immigration  —  Voters for Kamala Harris and Donald Trump who cast their ballots for Tuesday's presidential election had vastly different motivations — reflecting a broader national divide on the problems the United States faces.",
-    "url": "https://apnews.com/article/ap-votecast-elections-harris-trump-voters-d5cf4e3611f50ec4349d93ddc7f037cd"
+    "text": "NBC News Exit Poll: Voters express deep concern about America's democracy and economy  —  Women are twice as likely as men to rank abortion as their top issue, according to preliminary results from the national survey.  —  The state of democracy and the economy in the United States … ",
+    "url": "https://www.nbcnews.com/politics/2024-election/nbc-news-exit-poll-voters-express-concern-democracy-economy-rcna178602"
+  },
+  {
+    "text": "Democrats feel 2016 all over again in Harris-Trump battle  —  Democrats started election night feeling genuinely optimistic about Vice President Harris's chance of becoming the nation's first female president.  —  But as the evening wore on and former President Trump began to surpass 200 electoral votes … ",
+    "url": "https://thehill.com/homenews/campaign/4975404-democrats-optimistic-vice-president-harris/"
+  },
+  {
+    "text": "Harris wins New Mexico  —  Vice President Harris was projected to win New Mexico, according to Decision Desk HQ, picking up the state's five Electoral College votes.  —  Heading into Election Day, New Mexico was seen as a “likely Democratic” state, according to Decision Desk HQ forecasts — just a step shy of being solidly blue.",
+    "url": "https://thehill.com/homenews/campaign/4969071-new-mexico-vice-president-harris/"
   },
   {
     "text": "Florida's abortion amendment fails, leaving 6-week ban in place  —  Florida's abortion-rights ballot initiative fell short of passing on Tuesday, leaving in place a six-week abortion ban that has helped restrict access across almost all of the Southern U.S.  —  The measure's defeat … ",
     "url": "https://thehill.com/policy/healthcare/4969765-florida-abortion-rights-ballot/"
   },
   {
-    "text": "Election Day bomb threats disrupt voting in multiple states  —  The U.S. saw a rash of discredited bomb threats called in at polling places in multiple states on Election Day, in some cases spurring the need for extended voting hours.  —  Faulty bomb threats were called into at least five states … ",
-    "url": "https://thehill.com/homenews/campaign/4975024-russia-bomb-threats-polling-places/"
-  },
-  {
     "text": "Live Presidential Forecast  —  Our election model estimates the outcome of the race in real time based on polling data, the votes reported so far and what we expect from remaining votes.  Read how it works ›  —  Chance of winning  —  No estimates yet",
     "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html"
   },
   {
-    "text": "Schiff wins California Senate race  —  Rep. Adam Schiff (D-Calif.) is projected to win his bid for the Senate in California, according to Decision Desk HQ.  —  Schiff, who emerged as one of former President Trump's chief critics in the House and led Trump's first impeachment … ",
-    "url": "https://thehill.com/homenews/campaign/4971859-adam-schiff-california-senate/"
+    "text": "Florida amendment to legalize recreational marijuana falls short  —  Despite public backing from Donald Trump, marijuana will remain legal in the state only for medical use, NBC News projects.  —  An effort to legalize the use of recreational marijuana in Florida has failed at the ballot box, NBC News projects.",
+    "url": "https://www.nbcnews.com/politics/2024-election/florida-marijuana-recreational-use-ballot-measure-rejected-rcna173902"
   },
   {
-    "text": "Sarah McBride becomes the first openly transgender person elected to Congress  —  This story originally appeared as part of NPR's live coverage of the 2024 election.  For more election coverage from the NPR Network head to our live updates page.  —  Delaware State Sen. Sarah McBride … ",
-    "url": "https://www.npr.org/2024/11/05/g-s1-32741/sarah-mcbride-transgender-first-delaware"
+    "text": "Election Day bomb threats disrupt voting in multiple states  —  The U.S. saw a rash of discredited bomb threats called in at polling places in multiple states on Election Day, in some cases spurring the need for extended voting hours.  —  Faulty bomb threats were called into at least five states … ",
+    "url": "https://thehill.com/homenews/campaign/4975024-russia-bomb-threats-polling-places/"
+  },
+  {
+    "text": "Schiff wins California Senate race  —  Rep. Adam Schiff (D-Calif.) is projected to win his bid for the Senate in California, according to Decision Desk HQ.  —  Schiff, who emerged as one of former President Trump's chief critics in the House and led Trump's first impeachment … ",
+    "url": "https://thehill.com/homenews/campaign/4971859-adam-schiff-california-senate/"
   },
   {
     "text": "Sarah McBride becomes the first out transgender person elected to Congress  —  McBride, a Democrat who served two terms as a state senator, wins Delaware's only House seat, NBC News projects.  —  WILMINGTON, Del. — Delaware state Sen. Sarah McBride won the state's only House seat Tuesday … ",
@@ -48,12 +56,12 @@
     "url": "https://www.cnn.com/2024/11/05/media/trump-revokes-journalists-election-night-credentials/"
   },
   {
-    "text": "Ted Cruz wins Texas Senate reelection fight  —  Sen. Ted Cruz (R-Texas) secured a third term in the upper chamber on Tuesday by knocking off Rep. Colin Allred (D-Texas) in one of the most expensive races on the 2024 map, depriving Democrats of their best pickup opportunity in the process, according to a projection from Decision Desk HQ.",
-    "url": "https://thehill.com/homenews/campaign/4964222-ted-cruz-wins-texas-senate-race/"
-  },
-  {
     "text": "Moreno ousts Brown in Ohio Senate race  —  Republican businessman Bernie Moreno has defeated incumbent Sen. Sherrod Brown (D-Ohio), the chair of the Senate Banking Committee, boosting Republican chances of taking back control of the Senate.  —  Moreno, 57, who built up a successful network … ",
     "url": "https://thehill.com/homenews/senate/4973460-moreno-defeats-brown-senate-race/"
+  },
+  {
+    "text": "Ted Cruz wins Texas Senate reelection fight  —  Sen. Ted Cruz (R-Texas) secured a third term in the upper chamber on Tuesday by knocking off Rep. Colin Allred (D-Texas) in one of the most expensive races on the 2024 map, depriving Democrats of their best pickup opportunity in the process, according to a projection from Decision Desk HQ.",
+    "url": "https://thehill.com/homenews/campaign/4964222-ted-cruz-wins-texas-senate-race/"
   },
   {
     "text": "Democrat Angela Alsobrooks defeats Larry Hogan in Maryland Senate race  —  Democrat Angela Alsobrooks has won the Maryland Senate race, according to The Associated Press, fending off former two-term GOP Gov. Larry Hogan.  The win comes as a relief for Democrats, who had not budgeted to defend Maryland this cycle.",
@@ -72,16 +80,16 @@
     "url": "https://www.nytimes.com/2024/11/05/nyregion/nj-senate-kim-bradshaw.html"
   },
   {
+    "text": "Biden's granddaughter announces pregnancy  —  President Biden's granddaughter Naomi Biden announced on Election Day that she is expecting her first child.  —  In an Instagram story on Tuesday, the president's eldest grandchild posted a photo of herself in the mirror, highlighting her baby bump with an … ",
+    "url": "https://thehill.com/blogs/in-the-know/4975278-bidens-granddaughter-announces-pregnancy/"
+  },
+  {
     "text": "How are things looking in Pennsylvania?  Dems are feeling cautiously optimistic  —  How are Democrats feeling in Pennsylvania, the most pivotal battleground in the country?  Cautiously optimistic.  I surveyed 10 Dem elected officials and strategists across the state and, to a person … ",
     "url": "https://www.politico.com/live-updates/2024/11/05/2024-election-results-live-coverage-updates-analysis/pennsylvania-vibe-check-early-00187540"
   },
   {
     "text": "Arizona's Kari Lake Is Already Claiming Election Fraud  —  The night before the election, Arizona Senate candidate Kari Lake, a former TV anchor-turned-election truther, thanked her supporters for voting early—something she has long railed against.  —  Prescott, AZ — Kari Lake stood … ",
     "url": "https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/"
-  },
-  {
-    "text": "Trump projected winner in Georgia  —  Former President Trump has won the state of Georgia, Decision Desk HQ projects, flipping the crucial battleground back into his column after narrowly losing the state four years ago.  —  Georgia was one of the most valuable battlegrounds with its 16 electoral votes … ",
-    "url": "https://thehill.com/homenews/campaign/4959700-trump-wins-georgia-election/"
   },
   {
     "text": "Milwaukee rerunning more than 30,000 absentee ballots over error, delaying results  —  Vanessa Swales Alison DirrMilwaukee Journal Sentinel  —  The City of Milwaukee restarted the processing about 31,000 absentee ballots after an election observer brought to officials' attention that doors covering … ",
