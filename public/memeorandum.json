@@ -1,13 +1,5 @@
 [
   {
-    "text": "Canada is already examining tariffs on certain US items following Trump's tariff threat  —  Canada is already examining possible retaliatory tariffs on certain items from the United States should President-elect Donald Trump follow through on his threat to impose sweeping tariffs on Canadian products, a senior official said Wednesday.",
-    "url": "https://apnews.com/article/canada-trump-tariffs-trudeau-c741393c2f7c7545e9714839cfbbda45"
-  },
-  {
-    "text": "Trump Team Is Having a Terrifying Debate on How to Invade Mexico  —  With its newfound electoral mandate, Donald Trump's team is debating on whether to attack or invade Mexico, as the president-elect promised on the campaign trail.  —  “How much should we invade Mexico?” one senior Trump transition member told Rolling Stone.",
-    "url": "https://newrepublic.com/post/188889/trump-team-terrifying-debate-invade-mexico"
-  },
-  {
     "text": "Mark Zuckerberg joined Trump for a Thanksgiving Eve dinner at Mar-a-Lago  — Mark Zuckerberg met with President-elect Donald Trump at Mar-a-Lago in Florida.  — Trump and Zuckerberg, who did not endorse a candidate for president, have had a rocky relationship.",
     "url": "https://www.businessinsider.com/mark-zuckerberg-met-with-trump-mar-a-lago-report-2024-11"
   },
@@ -20,12 +12,20 @@
     "url": "https://www.nytimes.com/2024/11/27/us/politics/mark-zuckerberg-trump-meeting.html"
   },
   {
-    "text": "Trump turns to outsider to shake up Navy, but his lack of military experience raises concerns  —  President-elect Donald Trump's nominee to be secretary of the Navy, John Phelan, has not served in the military or had a civilian leadership role in the service.",
-    "url": "https://apnews.com/article/trump-navy-secretary-nominee-phelan-3b36a03a837684370f494a116cea183c"
+    "text": "Canada is already examining tariffs on certain US items following Trump's tariff threat  —  Canada is already examining possible retaliatory tariffs on certain items from the United States should President-elect Donald Trump follow through on his threat to impose sweeping tariffs on Canadian products, a senior official said Wednesday.",
+    "url": "https://apnews.com/article/canada-trump-tariffs-trudeau-c741393c2f7c7545e9714839cfbbda45"
+  },
+  {
+    "text": "Trump Team Is Having a Terrifying Debate on How to Invade Mexico  —  With its newfound electoral mandate, Donald Trump's team is debating on whether to attack or invade Mexico, as the president-elect promised on the campaign trail.  —  “How much should we invade Mexico?” one senior Trump transition member told Rolling Stone.",
+    "url": "https://newrepublic.com/post/188889/trump-team-terrifying-debate-invade-mexico"
   },
   {
     "text": "RFK Jr. attacked the CDC's ‘fascism’ and likened vaccinating children to abuse by the Catholic Church  —  Robert F. Kennedy Jr., Donald Trump's pick for Health and Human Services secretary, also argued for jailing vaccine scientists in previously unreported comments at autism conferences.",
     "url": "https://www.nbcnews.com/health/health-news/rfk-jr-vaccines-cdc-fascism-abuse-catholic-church-autism-conferences-rcna181605"
+  },
+  {
+    "text": "Trump turns to outsider to shake up Navy, but his lack of military experience raises concerns  —  President-elect Donald Trump's nominee to be secretary of the Navy, John Phelan, has not served in the military or had a civilian leadership role in the service.",
+    "url": "https://apnews.com/article/trump-navy-secretary-nominee-phelan-3b36a03a837684370f494a116cea183c"
   },
   {
     "text": "Trump's new Ukraine adviser suggested ceding territory to Russia … - It also would mark a shift from the Biden administration's stance on the war and could be met with pushback from European allies. … - “The United States would continue to arm Ukraine and strengthen its defenses … ",
@@ -36,16 +36,16 @@
     "url": "https://thehill.com/policy/technology/5012743-musk-accuses-trump-whistleblower-vindman-of-treason-says-he-will-pay/"
   },
   {
+    "text": "‘Delete CFPB’: Musk calls for elimination of consumer bureau  —  Elon Musk said Wednesday that the Consumer Financial Protection Bureau should be abolished, calling for the elimination of an agency that would potentially regulate the future payments business of the Musk-owned X platform.",
+    "url": "https://www.politico.com/live-updates/2024/11/27/congress/delete-cfpb-musk-calls-for-elimination-of-consumer-bureau-00191994"
+  },
+  {
     "text": "Homan taking death threats against him ‘more seriously’ after Trump officials targeted with violent threats  —  Incoming Trump border czar Tom Homan reacted to news of death threats against Trump nominees on Wednesday and said he now takes the death threats he has previously received seriously.",
     "url": "https://www.foxnews.com/politics/homan-taking-death-threats-against-him-more-seriously-after-trump-officials-targeted-with-violent-threats"
   },
   {
     "text": "Elon Musk publicized the names of government employees he wants to cut.  It's terrifying federal workers  —  When President-elect Donald Trump said Elon Musk and Vivek Ramaswamy would recommend major cuts to the federal government in his administration, many public employees knew that their jobs could be on the line.",
     "url": "https://www.cnn.com/2024/11/27/business/elon-musk-government-employees-targets/"
-  },
-  {
-    "text": "‘Delete CFPB’: Musk calls for elimination of consumer bureau  —  Elon Musk said Wednesday that the Consumer Financial Protection Bureau should be abolished, calling for the elimination of an agency that would potentially regulate the future payments business of the Musk-owned X platform.",
-    "url": "https://www.politico.com/live-updates/2024/11/27/congress/delete-cfpb-musk-calls-for-elimination-of-consumer-bureau-00191994"
   },
   {
     "text": "Trump transition team ethics pledge appears to exclude president-elect  —  President-elect Donald Trump's team submitted an ethics plan guiding the conduct of its members throughout the transition period that does not appear to include provisions for one key member of the team: the president himself.",
@@ -56,12 +56,12 @@
     "url": "https://www.axios.com/2024/11/27/house-members-running-for-senate-governor-2026"
   },
   {
-    "text": "Democrat Derek Tran ousts Michelle Steel in CA House battle  —  The battle for the Orange County district turned harshly personal in the closing weeks of the campaign.  —  Derek Tran, a first-time Democratic candidate, has flipped a toss-up California House seat, narrowly defeating GOP Rep. Michelle Steel … ",
-    "url": "https://www.politico.com/news/2024/11/27/derek-tran-wins-california-45-election-00187118"
-  },
-  {
     "text": "Crypto leaders press Trump to create federal bitcoin reserve  —  The president-elect has previously expressed support for the idea, which some economists say could be inflationary and costly.  —  Top cryptocurrency executives and investors are pushing President-elect Donald Trump to create … ",
     "url": "https://www.washingtonpost.com/business/2024/11/27/trump-strategic-bitcoin-reserve-plan/"
+  },
+  {
+    "text": "Democrat Derek Tran ousts Michelle Steel in CA House battle  —  The battle for the Orange County district turned harshly personal in the closing weeks of the campaign.  —  Derek Tran, a first-time Democratic candidate, has flipped a toss-up California House seat, narrowly defeating GOP Rep. Michelle Steel … ",
+    "url": "https://www.politico.com/news/2024/11/27/derek-tran-wins-california-45-election-00187118"
   },
   {
     "text": "Gavin Newsom grants pardon to famed podcaster, former San Quentin inmate  —  Earlonne Woods of “Ear Hustle” received a full pardon from the California governor.  —  California Gov. Gavin Newsom granted 19 Thanksgiving eve pardons, including one to a Pulitzer Prize finalist who produced the popular … ",
@@ -72,7 +72,7 @@
     "url": "https://www.huffpost.com/entry/monroe-nichols-tulsa-election_n_67477f02e4b08e47550373a6"
   },
   {
-    "text": "WINNING: Fed Court of Appeals Rules Vs. Biden CPS Cutting Texas Razor Wire, Gov. Greg Abbott Has Thoughts  —  The Fifth Circuit Court of Appeals has made a new ruling in the case involving the state of Texas defending itself against the illegal alien horde invited to storm the U.S.-Mexico border … ",
-    "url": "https://redstate.com/beccalower/2024/11/27/winning-fed-court-of-appeals-rules-against-biden-cps-cutting-razor-wire-allowing-illegals-to-enter-us-n2182562"
+    "text": "X users left stunned by ‘terrible’ video of Harris speaking to supporters: ‘Who thought this was a good idea?’  —  Vice President Kamala Harris addressed her loss for the first time since her concession speech  —  Vice President Kamala Harris' first video to her supporters after the election stunned social media users Tuesday.",
+    "url": "https://www.foxnews.com/media/x-users-left-stunned-terrible-video-harris-speaking-supporters-who-thought-good-idea"
   }
 ]
