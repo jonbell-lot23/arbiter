@@ -1,9 +1,5 @@
 [
   {
-    "text": "Pete Hegseth's Troubles at Work Raise Questions About Leadership  —  President-elect Donald J. Trump's choice for defense secretary led two nonprofits into debt, and episodes of drinking continued into his days as a Fox News personality.  —  Almost from the moment he first went on air … ",
-    "url": "https://www.nytimes.com/2024/12/04/us/politics/pete-hegseth-workplace.html?unlocked_article_code=1.fE4.vShz.x84TMJu-J92k&smid=url-share"
-  },
-  {
     "text": "Hegseth nomination sinking fast in the Senate  —  Senate Republicans say Pete Hegseth, President-elect Trump's choice to head the Defense Department, faces a very tough path to confirmation in the Senate and his bleak prospects have been communicated directly to the Trump transition team, which is now mulling other options.",
     "url": "https://thehill.com/homenews/senate/5023165-hegseth-nomination-senate/"
   },
@@ -40,16 +36,20 @@
     "url": "https://www.hollywoodreporter.com/business/business-news/jeff-bezos-washington-post-amazon-trump-1236077799/"
   },
   {
-    "text": "What to know about the fatal shooting of UnitedHealthcare's CEO  —  A manhunt is underway in New York for the suspect who shot the CEO of the country's largest private health insurer Wednesday morning.  —  Police said UnitedHealthcare CEO Brian Thompson was shot and killed outside … ",
-    "url": "https://thehill.com/policy/healthcare/5023158-what-to-know-fatal-shooting-unitedhealthcare-ceo/"
-  },
-  {
     "text": "The Times They Are A-Changin'  —  The old Los Angeles Times building.  (Photo by David McNew/Getty Images)  —  Patrick Soon-Shiong is tightening his grip over the Los Angeles Times.  —  The MAGA-curious owner, who drew controversy when he blocked the newspaper's planned endorsement of Kamala Harris … ",
     "url": "https://www.status.news/p/los-angeles-times-patrick-soon-shiong"
   },
   {
+    "text": "What to know about the fatal shooting of UnitedHealthcare's CEO  —  A manhunt is underway in New York for the suspect who shot the CEO of the country's largest private health insurer Wednesday morning.  —  Police said UnitedHealthcare CEO Brian Thompson was shot and killed outside … ",
+    "url": "https://thehill.com/policy/healthcare/5023158-what-to-know-fatal-shooting-unitedhealthcare-ceo/"
+  },
+  {
     "text": "Donald Trump is ready to make Republicans touch the third rail  —  Without a voting public to face again, Trump is gearing up to cut Social Security and Medicare  —  There are a thousand election hot takes and post-mortems floating around these days and I'm sure we'll soon come to some consensus … ",
     "url": "https://www.salon.com/2024/12/04/donald-is-ready-to-make-touch-the-third-rail/"
+  },
+  {
+    "text": "Trump Nominee Pressured IRS To Crush The Humane Society  —  Donald Trump's pick to head the Internal Revenue Service pressed the agency to investigate and consider stripping the country's leading animal welfare group of its tax status after it supported an initiative to protect dogs, according to documents reviewed by The Lever.",
+    "url": "https://www.levernews.com/trump-nominee-pressured-irs-to-crush-the-humane-society/"
   },
   {
     "text": "Trump Replaces His White House Counsel Before He Even Started the Job  —  The shake-up is a sign that the new administration may see the same chaos and infighting that so often plagued President-elect Donald J. Trump's first term in office.  —  President-elect Donald J. Trump on Wednesday replaced … ",
@@ -64,12 +64,12 @@
     "url": "https://www.thedailybeast.com/hegseth-vows-to-stop-drinking-alcohol-if-confirmed/"
   },
   {
-    "text": "No-confidence vote topples French government, plunges country into chaos  —  The support of Marine Le Pen's far-right lawmakers was key to the motion, which made this the shortest-serving administration in the modern French republic.  —  A no-confidence vote in the French parliament … ",
-    "url": "https://www.washingtonpost.com/world/2024/12/04/france-no-confidence-vote-government-collapse/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzMzMjg4NDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM0NjcwNzk5LCJpYXQiOjE3MzMyODg0MDAsImp0aSI6ImI1NjhhOWRkLTZlZjctNDYxMC05ZTY3LWY5NTI1ZTc0ZmExMiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzEyLzA0L2ZyYW5jZS1uby1jb25maWRlbmNlLXZvdGUtZ292ZXJubWVudC1jb2xsYXBzZS8ifQ.10AazP0jicVUHfekB64dl9bU-10ny9xrq8j3jWmpUdo&itid=gfta"
-  },
-  {
     "text": "The Great DOGE Reversal  —  The project led by Elon Musk and Vivek Ramaswamy puts citizens back on top.  —  It is easy to mock or minimize DOGE.  Its name, the Department of Government Efficiency, reads like a Muskian stab at humor.  It may be an impossible dream.",
     "url": "https://www.wsj.com/opinion/the-great-doge-reversal-bureaucracy-cut-red-tape-government-spending-9c5f478b?st=UusTnM&reflink=article_copyURL_share"
+  },
+  {
+    "text": "No-confidence vote topples French government, plunges country into chaos  —  The support of Marine Le Pen's far-right lawmakers was key to the motion, which made this the shortest-serving administration in the modern French republic.  —  A no-confidence vote in the French parliament … ",
+    "url": "https://www.washingtonpost.com/world/2024/12/04/france-no-confidence-vote-government-collapse/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzMzMjg4NDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM0NjcwNzk5LCJpYXQiOjE3MzMyODg0MDAsImp0aSI6ImI1NjhhOWRkLTZlZjctNDYxMC05ZTY3LWY5NTI1ZTc0ZmExMiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzEyLzA0L2ZyYW5jZS1uby1jb25maWRlbmNlLXZvdGUtZ292ZXJubWVudC1jb2xsYXBzZS8ifQ.10AazP0jicVUHfekB64dl9bU-10ny9xrq8j3jWmpUdo&itid=gfta"
   },
   {
     "text": "Campaign Board Head Hints Eric Adams Could Be Denied Reelection Matching Funds  —  Executive director says Campaign Finance Board members will make “judgment calls” that could take into account a recent federal indictment for allegedly obtaining $10 million illegally in 2021.  —  Support local news today!",
@@ -88,36 +88,32 @@
     "url": "https://www.msnbc.com/opinion/msnbc-opinion/south-korea-martial-law-president-democracy-trump-rcna182732"
   },
   {
-    "text": "Trump Nominee Pressured IRS To Crush The Humane Society  —  Donald Trump's pick to head the Internal Revenue Service pressed the agency to investigate and consider stripping the country's leading animal welfare group of its tax status after it supported an initiative to protect dogs, according to documents reviewed by The Lever.",
-    "url": "https://www.levernews.com/trump-nominee-pressured-irs-to-crush-the-humane-society/"
-  },
-  {
     "text": "Memphis police use excessive force and discriminate against Black people, Justice Department finds  —  The Memphis Police Department uses excessive force and discriminates against Black people, according to the findings of a U.S. Department of Justice investigation launched after the beating death … ",
     "url": "https://apnews.com/article/tyre-nichols-memphis-police-federal-investigation-beac021fcf8b5fd255ce79520cec86fa"
-  },
-  {
-    "text": "Trump Picks Cryptocurrency Advocate Paul Atkins For SEC Chair  —  Trump said Atkins, the CEO of Patomak Partners and a former SEC commissioner, was a “proven leader for common sense regulations.”  —  LOADING  —  President-elect Donald Trump announced Wednesday that he intends … ",
-    "url": "https://www.huffpost.com/entry/paul-atkins-trump-sec-chair_n_67509b4fe4b033802ee4886a"
   },
   {
     "text": "Wired for the GOP  —  This column, by Alexander Burns, the head of news at Politico, is a rich example of the DC logic that only Democrats have agency and it's only to Democrats that standards, norms, rules or whatever else apply.  “Joe Biden's Parting Insult: The president delivered a vote … ",
     "url": "https://talkingpointsmemo.com/edblog/wired-for-the-gop-2"
   },
   {
-    "text": "Bill Maher Threatens to ‘Quit’ His Show Over Trump Win  —  REALLY?  —  The host told Jane Fonda he's “bored” with talking about the president-elect, but would have no choice.  —  Bill Maher “may quit,” his HBO show Real Time, he told Jane Fonda on the latest episode of his Club Random podcast … ",
-    "url": "https://www.thedailybeast.com/bill-maher-threatens-to-quit-his-hbo-show-over-trump-win/"
-  },
-  {
     "text": "Big Insurer Sets Time Limits On Anesthesia Coverage During Surgeries  —  One of the country's largest health insurance companies says it will no longer automatically pay for patients' anesthesia if a medical procedure takes longer than a predetermined time limit, regardless of complications or other factors that impact operation time.",
     "url": "https://www.levernews.com/big-insurer-sets-time-limits-on-anesthesia-coverage-during-surgeries/"
   },
   {
-    "text": "DOJ briefs House GOP on internal inquiry into Jack Smith misconduct allegations  —  EXCLUSIVE — The Department of Justice recently briefed the House Judiciary Committee about an internal investigation it had opened into special counsel Jack Smith's office, according to committee Chairman Jim Jordan (R-OH).",
-    "url": "https://www.washingtonexaminer.com/news/justice/3250360/doj-briefs-house-gop-on-internal-inquiry-into-jack-smith-misconduct-allegations/"
+    "text": "Trump Picks Cryptocurrency Advocate Paul Atkins For SEC Chair  —  Trump said Atkins, the CEO of Patomak Partners and a former SEC commissioner, was a “proven leader for common sense regulations.”  —  LOADING  —  President-elect Donald Trump announced Wednesday that he intends … ",
+    "url": "https://www.huffpost.com/entry/paul-atkins-trump-sec-chair_n_67509b4fe4b033802ee4886a"
+  },
+  {
+    "text": "Bill Maher Threatens to ‘Quit’ His Show Over Trump Win  —  REALLY?  —  The host told Jane Fonda he's “bored” with talking about the president-elect, but would have no choice.  —  Bill Maher “may quit,” his HBO show Real Time, he told Jane Fonda on the latest episode of his Club Random podcast … ",
+    "url": "https://www.thedailybeast.com/bill-maher-threatens-to-quit-his-hbo-show-over-trump-win/"
   },
   {
     "text": "Trump Taps Fiserv CEO Bisignano for Social Security Chief  — Program faces shortfall and is politically risky to change  — Bisignano is JPMorgan veteran behind major fintech merger  —  President-elect Donald Trump is nominating Frank Bisignano, the chief executive officer of fintech … ",
     "url": "https://www.bloomberg.com/news/articles/2024-12-05/trump-taps-fiserv-s-bisignano-for-social-security-administration"
+  },
+  {
+    "text": "DOJ briefs House GOP on internal inquiry into Jack Smith misconduct allegations  —  EXCLUSIVE — The Department of Justice recently briefed the House Judiciary Committee about an internal investigation it had opened into special counsel Jack Smith's office, according to committee Chairman Jim Jordan (R-OH).",
+    "url": "https://www.washingtonexaminer.com/news/justice/3250360/doj-briefs-house-gop-on-internal-inquiry-into-jack-smith-misconduct-allegations/"
   },
   {
     "text": "Texas judge blocks anti-money laundering law's enforcement nationwide  —  A federal judge in Texas has issued a nationwide injunction blocking the enforcement of an anti-money laundering law that requires corporate entities to disclose to the U.S. Treasury Department the identities of their real beneficial owners.",
