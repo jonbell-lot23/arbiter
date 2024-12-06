@@ -1,13 +1,5 @@
 [
   {
-    "text": "Trump names his own pick for IRS commissioner, breaking from tradition  —  With the choice of former congressman Billy Long, Trump apparently plans to oust Danny Werfel, who is partway through his five-year appointment.  —  With his announcement late Wednesday that he'll appoint former … ",
-    "url": "https://www.washingtonpost.com/business/2024/12/05/billy-long-irs-commissioner-trump/"
-  },
-  {
-    "text": "Trump names ICE chief and makes another round of immigration announcements  —  President-elect Donald Trump on Thursday night announced a new round of nominees and appointments to tackle his aggressive immigration and homeland security agenda.  Trump said he was nominating Rodney Scott as commissioner of Customs and Border Protection.",
-    "url": "https://www.politico.com/live-updates/2024/12/05/congress/trump-ice-chief-rodney-scott-00192974"
-  },
-  {
     "text": "Elon Musk spent a quarter-billion dollars electing Trump, including financing mysterious ‘RBG PAC’  —  The super PAC, which defended Trump on abortion, got its more than $20 million in funds came from the “Elon Musk Revocable Trust.”  —  Billionaire Elon Musk poured more than $20 million … ",
     "url": "https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922"
   },
@@ -20,6 +12,10 @@
     "url": "https://www.cnn.com/2024/12/05/politics/house-vote-matt-gaetz-ethics-report"
   },
   {
+    "text": "Trump names his own pick for IRS commissioner, breaking from tradition  —  With the choice of former congressman Billy Long, Trump apparently plans to oust Danny Werfel, who is partway through his five-year appointment.  —  With his announcement late Wednesday that he'll appoint former … ",
+    "url": "https://www.washingtonpost.com/business/2024/12/05/billy-long-irs-commissioner-trump/"
+  },
+  {
     "text": "Biden Team Considers Blanket Pardons Before Trump's Promised ‘Retribution’  —  White House officials believe President-elect Donald J. Trump's selection of partisan warriors for top law enforcement jobs indicates that he will pursue revenge against his perceived enemies.",
     "url": "https://www.nytimes.com/2024/12/05/us/politics/biden-trump-pardons.html"
   },
@@ -30,6 +26,10 @@
   {
     "text": "An architect of Project 2025 is pressuring Republican senators to confirm Pete Hegseth  —  The think tank behind Project 2025, the conservative blueprint linked to President-elect Donald Trump, is launching an effort to back Trump's imperiled selection for secretary of defense in its latest attempt … ",
     "url": "https://apnews.com/article/project-2025-cabinet-nominees-heritage-foundation-hegseth-d770431b8022159dc3f6c53458bdcf0e"
+  },
+  {
+    "text": "Hegseth says he won't withdraw as he struggles as Trump's Defense pick  —  “As long as Donald Trump wants me in this fight, I'm going to be standing right here in this fight,” he said.  —  Pete Hegseth spent this week attempting to woo senators — and others — as he fought to remain Donald Trump's pick for secretary of Defense.",
+    "url": "https://www.politico.com/news/2024/12/05/hegseth-senate-nomination-00192919"
   },
   {
     "text": "Anthem Blue Cross Blue Shield calls off surgery anesthesia cap … - The decision covered plans in Connecticut, New York and Missouri.  — The insurer had based the decision on surgery time metrics from the Centers for Medicare and Medicaid Services, NPR reported.",
@@ -64,27 +64,27 @@
     "url": "https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire"
   },
   {
-    "text": "Musk, on Capitol Hill, says ‘get rid of all credits’  —  Elon Musk, the billionaire electric vehicle mogul whom President-elect Donald Trump has tapped to help lead a government efficiency task force, told POLITICO's E&E News on Thursday that he wants to eliminate tax breaks for EV buyers.",
-    "url": "https://www.politico.com/live-updates/2024/12/05/congress/elon-musk-electric-cars-00192848"
-  },
-  {
     "text": "A Bipartisan Slippage in Standards  —  Biden's pardon of Hunter is as disconcerting as Trump's more exotic administration nominees.  —  We're seeing bipartisan slippage of standards.  —  It is embarrassing as a citizen to see the president of the United States pardon his son … ",
     "url": "https://www.wsj.com/opinion/bipartisan-slippage-of-standards-biden-pardon-hunter-trump-unusual-administration-nominees-289e0952?st=mvEjpV&reflink=article_copyURL_share"
+  },
+  {
+    "text": "Musk, on Capitol Hill, says ‘get rid of all credits’  —  Elon Musk, the billionaire electric vehicle mogul whom President-elect Donald Trump has tapped to help lead a government efficiency task force, told POLITICO's E&E News on Thursday that he wants to eliminate tax breaks for EV buyers.",
+    "url": "https://www.politico.com/live-updates/2024/12/05/congress/elon-musk-electric-cars-00192848"
   },
   {
     "text": "Manhattan Medicare Murder Mystery  —  Only about 50 million customers of America's reigning medical monopoly might have a motive to exact revenge upon the UnitedHealthcare CEO.  —  Members of the New York Police crime scene unit investigate the scene outside the Hilton Hotel in Midtown Manhattan … ",
     "url": "https://prospect.org/health/2024-12-05-manhattan-medicare-murder-mystery/"
   },
   {
-    "text": "Secret Service leader erupts at GOP lawmaker over 9/11 questioning  —  Acting Secret Service Director Ronald Rowe and Rep. Pat Fallon (R-Texas) engaged in a shouting match that persisted over gavel banging, as Rowe accused the lawmaker of politicizing the 9/11 attacks.",
-    "url": "https://thehill.com/policy/national-security/5024290-secret-service-leader-erupts-at-gop-rep-over-9-11-questioning/"
+    "text": "Trump Names Top Silicon Valley Conservative to Oversee Crypto and A.I.  —  David Sacks, a venture capitalist who hosts a hit podcast, has generally called for a looser hand in regulating both emerging technologies.  —  President-elect Donald J. Trump has named one of Silicon Valley's … ",
+    "url": "https://www.nytimes.com/2024/12/05/us/politics/david-sacks-crypto-ai-trump.html"
   },
   {
     "text": "Wealthy Americans are still ducking the IRS crackdown on non-filers … WATCH NOW  —  WASHINGTON — Tens of thousands of wealthy Americans are not complying with recently revamped Internal Revenue Service efforts to get them to file tax returns, according to data obtained exclusively by CNBC.",
     "url": "https://www.cnbc.com/2024/12/05/irs-crackdown-on-wealthy-americans-faces-roadblocks-.html"
   },
   {
-    "text": "Incoming Trump administration plans to deport some migrants to countries other than their own  —  The transition team is preparing a list of countries to which migrants might be deported when their home countries refuse to accept them, according to three sources familiar with the plans.",
-    "url": "https://www.nbcnews.com/investigations/incoming-trump-administration-plans-deport-migrants-countries-rcna182896"
+    "text": "Secret Service leader erupts at GOP lawmaker over 9/11 questioning  —  Acting Secret Service Director Ronald Rowe and Rep. Pat Fallon (R-Texas) engaged in a shouting match that persisted over gavel banging, as Rowe accused the lawmaker of politicizing the 9/11 attacks.",
+    "url": "https://thehill.com/policy/national-security/5024290-secret-service-leader-erupts-at-gop-rep-over-9-11-questioning/"
   }
 ]
