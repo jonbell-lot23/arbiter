@@ -1,15 +1,11 @@
 [
   {
-    "text": "Trump to nominate Kimberly Guilfoyle for ambassador to Greece  —  President-elect Donald Trump announced Monday he is nominating Kimberly Guilfoyle to be U.S. ambassador to Greece.  Guilfoyle, a former Fox News host-turned-political fundraiser, was dating Trump's eldest son, Donald Trump Jr.",
-    "url": "https://www.cbsnews.com/news/trump-kimberly-guilfoyle-greece-ambassador/"
-  },
-  {
     "text": "Amid Rumors of a Breakup, Kimberly Guilfoyle Is Appointed Ambassador to Greece  —  The announcement came as Donald Trump Jr. has been seen with the socialite Bettina Anderson in Florida.  —  It was an announcement made amid a swirl of tabloid speculation: Kimberly Guilfoyle … ",
     "url": "https://www.nytimes.com/2024/12/10/style/kimberly-guilfoyle-trump-greece-ambassador.html"
   },
   {
-    "text": "Trump's DOJ secretly obtained records of his FBI pick Kash Patel, lawmakers, staffers and media in leak investigation  —  The Justice Department secretly obtained phone records from two members of Congress and 43 staffers - including Kash Patel, President-elect Donald Trump's pick to lead the FBI … ",
-    "url": "https://www.cnn.com/2024/12/10/politics/justice-department-spying-congress-patel-trump-ig-report"
+    "text": "Trump to nominate Kimberly Guilfoyle for ambassador to Greece  —  President-elect Donald Trump announced Monday he is nominating Kimberly Guilfoyle to be U.S. ambassador to Greece.  Guilfoyle, a former Fox News host-turned-political fundraiser, was dating Trump's eldest son, Donald Trump Jr.",
+    "url": "https://www.cbsnews.com/news/trump-kimberly-guilfoyle-greece-ambassador/"
   },
   {
     "text": "Manhattan DA urges judge not to toss out guilty verdict in Trump hush money case  —  Sentencing and appeals could be put on hold until after Trump leaves office, the prosecutor said.  —  Manhattan District Attorney Alvin Bragg says Donald Trump's imminent return to the presidency is not a reason … ",
@@ -26,6 +22,14 @@
   {
     "text": "Exclusive: Luigi's Manifesto  —  I've obtained a copy of suspected killer Luigi Mangione's manifesto — the real one, not the forgery circulating online.  Major media outlets are also in possession of the document but have refused to publish it and not even articulated a reason why.",
     "url": "https://www.kenklippenstein.com/p/luigis-manifesto"
+  },
+  {
+    "text": "Trump's DOJ secretly obtained records of his FBI pick Kash Patel, lawmakers, staffers and media in leak investigation  —  The Justice Department secretly obtained phone records from two members of Congress and 43 staffers - including Kash Patel, President-elect Donald Trump's pick to lead the FBI … ",
+    "url": "https://www.cnn.com/2024/12/10/politics/justice-department-spying-congress-patel-trump-ig-report"
+  },
+  {
+    "text": "Kash Patel Doesn't Belong at the FBI  —  At the NSC, he was less interested in his assigned duties than in proving his loyalty to Donald Trump.  —  The president's constitutional obligation to “take Care that the Laws be faithfully executed” requires evenhanded action in the national rather … ",
+    "url": "https://www.wsj.com/opinion/kash-patel-doesnt-belong-at-the-fbi-cabinet-nominee-5ef655eb"
   },
   {
     "text": "Mitch McConnell falls during Senate Republican lunch  —  Incoming Senate GOP Leader John Thune says he's “fine.”  —  Senate Minority Leader Mitch McConnell accompanied by Senate Minority Whip John Thune takes a question from a reporter during a news conference following … ",
@@ -60,6 +64,10 @@
     "url": "https://www.nytimes.com/live/2024/12/10/world/syria-news-assad-rebels"
   },
   {
+    "text": "Trump announces 2 picks for OMB positions  —  President-elect Donald Trump is continuing to fill out key posts at the Office of Management and Budget with two staff picks on Tuesday.  Trump picked Rep. Dan Bishop of North Carolina as deputy director of the OMB.",
+    "url": "https://www.politico.com/live-updates/2024/12/10/congress/more-omb-picks-00193660"
+  },
+  {
     "text": "How Trump could try to deport immigrants to countries other than their own  —  President-elect Donald Trump is reportedly considering deporting some immigrants to countries other than their own.  If he tries to do so, it won't be the first time.  Like before, however, he would probably face legal challenges.",
     "url": "https://www.vox.com/politics/390533/trump-third-country-deportation-bahamas-panama-grenada-turks-caicos"
   },
@@ -68,20 +76,12 @@
     "url": "https://www.unilad.com/news/us-news/luigi-mangione-ceo-shooting-mcdonalds-worker-reward-333982-20241210"
   },
   {
-    "text": "‘Delusional’ AOC slammed for suggesting subway riders should be scared of Daniel Penny: ‘Utter stupidity’  —  Progressive Rep. Alexandria Ocasio-Cortez (D-NY) said New York City subway riders should be scared of Daniel Penny after he was found not guilty in the chokehold death of Jordan Neely … ",
-    "url": "https://nypost.com/2024/12/10/us-news/aoc-suggests-subway-riders-should-be-scared-of-daniel-penny/"
-  },
-  {
     "text": "Postmaster general visibly covers his ears amid criticism from GOP lawmaker  —  Postmaster General Louis DeJoy covered his ears when faced with criticism from Rep. Rich McCormick (R-GA) over his handling of the U.S. Postal Service, a move the Republican mocked and emphasized after it happened.",
     "url": "https://www.washingtonexaminer.com/news/house/3256407/postmaster-general-visibly-covers-his-ears-amid-criticism-from-gop-lawmaker/"
   },
   {
     "text": "Florida lawmaker abruptly switches to GOP shortly after winning election as Democrat  —  “It is sad that she has elevated her own needs above the needs of her district,” Democrat says  —  Florida state Rep. Susan Valdes switched her party registration from Democrat to Republican on Monday … ",
     "url": "https://www.salon.com/2024/12/10/florida-lawmaker-abruptly-switches-to-shortly-after-winning-as-democrat/"
-  },
-  {
-    "text": "White House Threatens Biden Veto of Bipartisan Bill to Add New Judges  —  The legislation would create more than 60 new federal court seats over the next decade, giving the Trump White House a first shot at filling dozens of new vacancies.  —  White House officials on Tuesday said President Biden … ",
-    "url": "https://www.nytimes.com/2024/12/10/us/politics/biden-judges-veto-white-house.html"
   },
   {
     "text": "Biden — addressing critics, voters and history — defends his economy  —  One month after voters rejected his party amid deep economic anxiety, Biden defends his economic legacy.  —  President Joe Biden offered a robust defense of his economic record on Tuesday in an impassioned speech aimed … ",
@@ -96,15 +96,19 @@
     "url": "https://www.washingtonpost.com/politics/2024/12/10/rfk-jr-tulsi-gabbard-confirmation-hearings-republican-senators-trump/"
   },
   {
+    "text": "‘Delusional’ AOC slammed for suggesting subway riders should be scared of Daniel Penny: ‘Utter stupidity’  —  Progressive Rep. Alexandria Ocasio-Cortez (D-NY) said New York City subway riders should be scared of Daniel Penny after he was found not guilty in the chokehold death of Jordan Neely … ",
+    "url": "https://nypost.com/2024/12/10/us-news/aoc-suggests-subway-riders-should-be-scared-of-daniel-penny/"
+  },
+  {
+    "text": "White House Threatens Biden Veto of Bipartisan Bill to Add New Judges  —  The legislation would create more than 60 new federal court seats over the next decade, giving the Trump White House a first shot at filling dozens of new vacancies.  —  White House officials on Tuesday said President Biden … ",
+    "url": "https://www.nytimes.com/2024/12/10/us/politics/biden-judges-veto-white-house.html"
+  },
+  {
     "text": "Scoop: RFK Jr. pushes his daughter-in-law for CIA deputy director … - President-elect Trump, who has signaled plans to try to overhaul U.S. intelligence agencies during his second term, has already named former intelligence director John Ratcliffe to lead the CIA.",
     "url": "https://www.axios.com/2024/12/10/rfk-jr-amaryllis-fox-cia-trump"
   },
   {
     "text": "This Critique of the Supreme Court's Gun Logic Really Got Under Alito's and Thomas' Skin  —  Last February, the Hawaii Supreme Court dared to call out the U.S. Supreme Court's Second Amendment jurisprudence for what it is: unworkable law built on bogus history and pro-gun fanaticism.",
     "url": "https://slate.com/news-and-politics/2024/12/us-supreme-court-clarence-thomas-samuel-alito-guns-second-amendment.html"
-  },
-  {
-    "text": "The state of the Arctic: High temperatures, melting ice, fires and unprecedented emissions  —  The Arctic tundra has switched from a carbon sink to a source of emissions, according to a NOAA report. … The Arctic just experienced its second-hottest year on record.",
-    "url": "https://www.nbcnews.com/science/climate-change/arctic-ice-melting-high-temperatures-fires-emissions-rcna183464"
   }
 ]
