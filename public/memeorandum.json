@@ -8,28 +8,28 @@
     "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-plane-crashes-potomac-river-collision-helicopter-reagan-n-rcna189942"
   },
   {
-    "text": "Live Updates: Plane Crashes Near Washington After Colliding With Army Helicopter  —  The American Airlines flight from Wichita, Kan., plunged into the Potomac River, the F.A.A. said.  An Army official said it collided with a Black Hawk helicopter.  —  Here is the latest on the crash.",
-    "url": "https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc"
-  },
-  {
     "text": "American Airlines plane crashes with helicopter near Reagan National Airport  —  Video shows midair collision near Reagan National Airport  —  An American Airlines passenger plane that departed from Wichita, Kansas, and a U.S. Army Black Hawk helicopter collided near Reagan National Airport Wednesday evening … ",
     "url": "https://www.washingtonpost.com/dc-md-va/2025/01/29/aircraft-crash-potomac/"
+  },
+  {
+    "text": "Live Updates: Plane Crashes Near Washington After Colliding With Army Helicopter  —  The American Airlines flight from Wichita, Kan., plunged into the Potomac River, the F.A.A. said.  An Army official said it collided with a Black Hawk helicopter.  —  Here is the latest on the crash.",
+    "url": "https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc"
   },
   {
     "text": "Passenger jet collides with helicopter while landing at Reagan Washington National Airport, FAA says  —  A passenger jet has collided with a helicopter while landing at Ronald Reagan National Airport near Washington.  That's according to the Federal Aviation Administration, which says the collision remains under investigation.",
     "url": "https://apnews.com/article/ronald-reagan-national-airport-crash-cebb142d24859ba0c4e0e4fd6c33773f"
   },
   {
-    "text": "American Airlines plane collides midair with military helicopter, rescue efforts underway  —  According to the FAA, a Black Hawk helicopter collided into a 60-passenger flight landing at DCA midair.  —  WASHINGTON — Police are investigating a plane crash near Ronald Reagan Washington National Airport.",
-    "url": "https://www.wusa9.com/article/travel/all-flights-halted-at-reagan-national-airport-due-to-plane-crash-potomac-river-dc/65-e2090f2d-0bca-4a4c-944c-215a6398a52d"
+    "text": "Trump Gutted Key Aviation Safety Committee Before D.C. Plane Crash … Last week, just days after his inauguration, Donald Trump eliminated the membership of a key committee that handles aviation security.  And on Wednesday night,  a passenger plane collided with a military helicopter in the Washington, D.C., area.",
+    "url": "https://newrepublic.com/post/190934/trump-aviation-safety-committee-dc-plane-crash"
+  },
+  {
+    "text": "White House regroups as funding freeze chaos recalls first term's travel ban  —  Democrats declared victory for blunting Trump's momentum while the White House insisted it isn't backing down.  —  In his first week in office, President Donald Trump moved swiftly to deliver on a signature campaign promise … ",
+    "url": "https://www.washingtonpost.com/politics/2025/01/30/trump-funding-freeze-chaos/"
   },
   {
     "text": "Inside 45 hours of chaos: The brief life and quick death of Trump's federal spending freeze  —  The Trump administration's biggest swing at radically reshaping federal spending lasted just under 45 hours.  —  A sweeping freeze on trillions in federal spending for grants and loans … ",
     "url": "https://www.cnn.com/2025/01/29/politics/inside-brief-life-trump-federal-spending-freeze/"
-  },
-  {
-    "text": "New Administration Highlights: Freeze on Federal Funds Rescinded, and Trump Signs Law to Ease Path to Deportations  —  Where Things Stand  — Grant freeze: The White House pulled back an order on Wednesday that froze trillions of dollars in federal grants and loans and sparked mass confusion across the country.",
-    "url": "https://www.nytimes.com/live/2025/01/29/us/trump-federal-freeze-funding-news"
   },
   {
     "text": "RFK Jr. Says Trump Gave Him 1 Directive On The Abortion Pill  —  The drugs are used for 63% of abortion care and have been widely deemed safe by scientists.  —  LOADING  —  Abortion came up several times during the first of Robert F. Kennedy Jr.'s confirmation hearings for health secretary … ",
@@ -40,67 +40,71 @@
     "url": "https://www.wsj.com/politics/policy/fbi-overhaul-off-to-a-rocky-start-as-kash-patel-prepares-to-defend-his-vision-1085c6f8?st=ChdHtS&reflink=mobilewebshare_permalink"
   },
   {
-    "text": "Trump Signs Agreement Calling for Meta to Pay $25 Million to Settle Suit  —  The president had sued the social-media company after his accounts were suspended  —  President Trump has signed settlement papers that are expected to require Meta Platforms to pay roughly $25 million to resolve … ",
-    "url": "https://www.wsj.com/us-news/law/trump-signs-agreement-calling-for-meta-to-pay-25-million-to-settle-suit-6f734c8c?st=7ms8uR&reflink=article_imessage_share"
-  },
-  {
-    "text": "I Just Got Trump's “Buyout” Offer at My Job.  Let Me Tell You How That's Going.  —  The author is a federal civil servant who has been granted the use of a pen name to protect them and their family from reprisals.  —  The new Trump administration's effort to both get a grip on and dismantle … ",
-    "url": "https://slate.com/news-and-politics/2025/01/donald-trump-news-executive-orders-buyout-freeze-elon-musk.html"
-  },
-  {
-    "text": "FAA Chief Quit on Jan. 20 After Elon Musk Told Him to Resign  —  The Federal Aviation Administration's leader stepped down on Jan. 20, months after Elon Musk demanded that he quit.The move by Michael Whitaker means the FAA has no Senate-confirmed leader for one of the biggest crises in its history … ",
-    "url": "https://www.thedailybeast.com/faa-chief-michael-whitaker-quit-on-jan-20-after-elon-musk-told-him-to-resign/"
-  },
-  {
-    "text": "Franklin County woman pardoned for Capitol riot is sentenced to 10 years in fatal crash  —  UNION, Mo. — The Franklin County woman pardoned for her participation in the U.S. Capitol insurrection on Jan. 6, 2021 was sentenced Wednesday to 10 years in prison for her role in a fatal drunk driving crash.",
-    "url": "https://www.stltoday.com/news/local/crime-courts/emily-hernandez-pardoned-for-capitol-riot-sentenced-to-17-years-in-fatal-dwi-crash/article_bf4def6e-de51-11ef-a3a0-97de6fd4bd53.html"
+    "text": "Despite media reports, Trump has not offered federal employees a “buyout”  —  Anyone who has read reports in the Associated Press, the New York Times, CBS News, CNN, USA Today, the Los Angeles Times, NBC News, or Axios would be under the impression that the Trump administration … ",
+    "url": "https://popular.info/p/despite-media-reports-trump-has-not"
   },
   {
     "text": "Trump's Inaugural Approval Rating Is Historically Low Again  —  Americans divided over whether Trump's pace in addressing major U.S. problems is about right or too fast  —  WASHINGTON, D.C. — At 47%, President Donald Trump's initial job approval rating for his second term is similar … ",
     "url": "https://news.gallup.com/poll/655955/trump-inaugural-approval-rating-historically-low-again.aspx"
   },
   {
+    "text": "Franklin County woman pardoned for Capitol riot is sentenced to 10 years in fatal crash  —  UNION, Mo. — The Franklin County woman pardoned for her participation in the U.S. Capitol insurrection on Jan. 6, 2021 was sentenced Wednesday to 10 years in prison for her role in a fatal drunk driving crash.",
+    "url": "https://www.stltoday.com/news/local/crime-courts/emily-hernandez-pardoned-for-capitol-riot-sentenced-to-17-years-in-fatal-dwi-crash/article_bf4def6e-de51-11ef-a3a0-97de6fd4bd53.html"
+  },
+  {
+    "text": "FAA Chief Quit on Jan. 20 After Elon Musk Told Him to Resign  —  The Federal Aviation Administration's leader stepped down on Jan. 20, months after Elon Musk demanded that he quit.The move by Michael Whitaker means the FAA has no Senate-confirmed leader for one of the biggest crises in its history … ",
+    "url": "https://www.thedailybeast.com/faa-chief-michael-whitaker-quit-on-jan-20-after-elon-musk-told-him-to-resign/"
+  },
+  {
+    "text": "Trump Signs Agreement Calling for Meta to Pay $25 Million to Settle Suit  —  The president had sued the social-media company after his accounts were suspended  —  President Trump has signed settlement papers that are expected to require Meta Platforms to pay roughly $25 million to resolve … ",
+    "url": "https://www.wsj.com/us-news/law/trump-signs-agreement-calling-for-meta-to-pay-25-million-to-settle-suit-6f734c8c?st=7ms8uR&reflink=article_imessage_share"
+  },
+  {
     "text": "Musk team's push to gut federal workforce bypassed key Trump officials  —  Billionaire Elon Musk has worked behind the scenes on an initiative aimed at depleting the civil service, prompting questions about its legality.  —  Billionaire Elon Musk's influence over a traditionally nonpartisan agency … ",
     "url": "https://www.washingtonpost.com/business/2025/01/29/elon-musk-opm-federal-workers-buyout-trump/"
-  },
-  {
-    "text": "Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral  —  A declassified World War II-era government guide to “simple sabotage” is currently one of the most popular open source books on the internet.  The book, called “Simple Sabotage Field Manual,” was declassified in 2008 by the CIA and … ",
-    "url": "https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/"
-  },
-  {
-    "text": "Pentagon agency pauses celebrations for Martin Luther King Jr. Day, Black History Month and more  —  The Defense Department's intelligence agency has paused observances of Martin Luther King Jr. Day, Pride Month, Holocaust Days of Remembrance and other cultural or historical annual events … ",
-    "url": "https://apnews.com/article/trump-holiday-mlk-day-pride-black-hispanic-dei-047bbdbfc12ea6e9a9731f5861d84e70"
-  },
-  {
-    "text": "Trump's Firings Could Bring Court Cases That Expand His Power  —  The prospect of legal challenges to President Trump's purges may be a feature, not a bug, for adherents of sweeping presidential authority.  —  President Trump abruptly fired dozens of officials in the past few days … ",
-    "url": "https://www.nytimes.com/2025/01/29/us/politics/trump-firings-officials-legal-test.html"
-  },
-  {
-    "text": "Ending Radical Indoctrination in K-12 Schooling  —  By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:  —  Section 1.  Purpose and Policy.  Parents trust America's schools to provide their children … ",
-    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/"
-  },
-  {
-    "text": "U.S. Economy Grew 2.3 Percent in Fourth Quarter  —  Gross domestic product grew by 2.3 percent in the fourth quarter, capping a more robust year than expected.  Policy uncertainty clouds the outlook.  —  Growth slowed but remained resilient at the end of 2024, leaving the U.S. economy … ",
-    "url": "https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html"
-  },
-  {
-    "text": "Gabbard Says She's No One's ‘Puppet’ in Bid for Top Spy Job  —  Tulsi Gabbard said she refuses to be anyone's “puppet” and promised to end what she called the weaponization of intelligence, according to prepared remarks she's set to deliver at her confirmation hearing Thursday to be the next director of national intelligence.",
-    "url": "https://www.bloomberg.com/news/articles/2025-01-30/gabbard-says-she-s-no-one-s-puppet-in-bid-for-top-spy-job"
-  },
-  {
-    "text": "Criminal records of Jan. 6 rioters pardoned by Trump include rape, domestic violence  —  Editor's Note: This story includes descriptions of violent crimes and sexual abuse involving both adults and children that may be disturbing to readers.  —  On his first day in office … ",
-    "url": "https://www.npr.org/2025/01/30/nx-s1-5276336/donald-trump-jan-6-rape-assault-pardons-rioters"
   },
   {
     "text": "To Pay for Trump Tax Cuts, House GOP Floats Plan to Slash Benefits for the Poor and Working Class  —  A menu of options being circulated by congressional Republicans also includes new tax cuts for corporations and the ultrawealthy.  —  One of the hallmarks of Donald Trump's presidential campaign … ",
     "url": "https://www.propublica.org/article/trump-tax-cuts-congress-republicans-plan-slash-benefits"
   },
   {
-    "text": "Denver schools under investigation over all-gender bathroom  —  The Department of Education launched an investigation Tuesday against Denver Public Schools for converting a girl's restroom into an all-gender bathroom.  —  The department's Office for Civil Rights said it is investigating … ",
-    "url": "https://thehill.com/homenews/education/5112890-denver-public-schools-all-gender-bathroom-investigation/"
+    "text": "Pentagon agency pauses celebrations for Martin Luther King Jr. Day, Black History Month and more  —  The Defense Department's intelligence agency has paused observances of Martin Luther King Jr. Day, Pride Month, Holocaust Days of Remembrance and other cultural or historical annual events … ",
+    "url": "https://apnews.com/article/trump-holiday-mlk-day-pride-black-hispanic-dei-047bbdbfc12ea6e9a9731f5861d84e70"
   },
   {
-    "text": "US military deportation flight likely cost more than first class  —  U.S. President Donald Trump's military deportation flight to Guatemala on Monday likely cost at least $4,675 per migrant, according to data provided by U.S. and Guatemalan officials.  —  That is more than five times … ",
-    "url": "https://www.reuters.com/world/americas/us-military-deportation-flight-likely-cost-more-than-first-class-2025-01-30/"
+    "text": "Criminal records of Jan. 6 rioters pardoned by Trump include rape, domestic violence  —  Editor's Note: This story includes descriptions of violent crimes and sexual abuse involving both adults and children that may be disturbing to readers.  —  On his first day in office … ",
+    "url": "https://www.npr.org/2025/01/30/nx-s1-5276336/donald-trump-jan-6-rape-assault-pardons-rioters"
+  },
+  {
+    "text": "Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral  —  A declassified World War II-era government guide to “simple sabotage” is currently one of the most popular open source books on the internet.  The book, called “Simple Sabotage Field Manual,” was declassified in 2008 by the CIA and … ",
+    "url": "https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/"
+  },
+  {
+    "text": "Ogles: ‘Did DEI play a role’ in fatal D.C. plane crash  —  Rep. Andy Ogles (R-Tenn.) is questioning whether diversity, equity and inclusion (DEI) played a role in the fatal plane crash at Reagan Washington National Airport outside of Washington, D.C.  —  Ogles, in an interview … ",
+    "url": "https://thehill.com/homenews/house/5116066-andy-ogles-dei-role-dca-crash/"
+  },
+  {
+    "text": "Bleach Enthusiast, Antisemitic Conspiracist Among Stars of Anti-Vaxxer Event To Be Held at Trump Hotel  —  The “truth seekers” conference, held at a hotel owned and frequented by President Donald Trump, is being organized by Charlie Ward, an antisemitic conspiracy theorist.",
+    "url": "https://www.wired.com/story/antivaxers-covid-deniers-trump-national-doral-miami-resort/"
+  },
+  {
+    "text": "Ending Radical Indoctrination in K-12 Schooling  —  By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:  —  Section 1.  Purpose and Policy.  Parents trust America's schools to provide their children … ",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/"
+  },
+  {
+    "text": "Gabbard Says She's No One's ‘Puppet’ in Bid for Top Spy Job  —  Tulsi Gabbard said she refuses to be anyone's “puppet” and promised to end what she called the weaponization of intelligence, according to prepared remarks she's set to deliver at her confirmation hearing Thursday to be the next director of national intelligence.",
+    "url": "https://www.bloomberg.com/news/articles/2025-01-30/gabbard-says-she-s-no-one-s-puppet-in-bid-for-top-spy-job"
+  },
+  {
+    "text": "How Trump is laying the groundwork for another travel ban  —  Trump's first travel ban was overturned in court in 2017.  His legal strategy may be savvier this time around. … Within days of taking office in 2017, President Donald Trump implemented a blanket ban on entry from seven Muslim-majority countries.",
+    "url": "https://www.vox.com/politics/397383/trump-travel-ban-immigration-executive-order"
+  },
+  {
+    "text": "U.S. Economy Grew 2.3 Percent in Fourth Quarter  —  Gross domestic product grew by 2.3 percent in the fourth quarter, capping a more robust year than expected.  Policy uncertainty clouds the outlook.  —  Growth slowed but remained resilient at the end of 2024, leaving the U.S. economy … ",
+    "url": "https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html"
+  },
+  {
+    "text": "Trump “defends women” by terrorizing them  —  His “gender ideology” executive order is already harming people. … 🚨 🚔 🚨  —  On Monday, January 20, just hours after being sworn in, President Trump signed an executive order for “Defending Women from Gender Ideology Extremism … ",
+    "url": "https://www.publicnotice.co/p/trump-gender-ideology-executive-order-moe"
   }
 ]
