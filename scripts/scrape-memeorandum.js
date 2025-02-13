@@ -1,5 +1,5 @@
 const { chromium } = require("playwright");
-const fs = require("fs").promises; // Import the promises version of fs
+const fs = require("fs").promises;
 
 (async () => {
   const browser = await chromium.launch();
