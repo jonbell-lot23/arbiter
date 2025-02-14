@@ -1,14 +1,14 @@
 {
-  "name": "bargas-book-one",
+  "name": "arbiter",
   "version": "1.0.0",
-  "description": "Text to speech conversion project",
-  "main": "4-simpleconvert.ts",
+  "description": "arbiter",
+  "type": "module",
   "scripts": {
-    "start": "ts-node 4-simpleconvert.ts"
+    "dev": "bun --watch src/index.ts",
+    "start": "bun run src/index.ts"
   },
-  "dependencies": {
-    "typescript": "^5.0.0",
-    "ts-node": "^10.9.1",
+  "dependencies": {},
+  "devDependencies": {
     "@types/node": "^20.0.0"
   }
 }
