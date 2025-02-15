@@ -11,12 +11,16 @@ interface Props {
   posts: arbiter_v1WithDate[];
 }
 
-interface arbiter_v1WithDate extends arbiter_v1 {
+interface arbiter_v1WithDate
+  extends Omit<
+    arbiter_v1,
+    "id" | "created_at" | "summary_raw" | "summary_translated"
+  > {
   id: number;
-  created_at: Date;
+  created_at: string | null;
+  summary_raw: string | null;
+  summary_translated: string | null;
   viewed?: boolean;
-  summary_translated?: string;
-  summary_raw?: string;
 }
 
 const prisma = new PrismaClient();
