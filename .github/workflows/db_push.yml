@@ -2,50 +2,40 @@ name: Push to DB
 
 on:
   schedule:
-    - cron: '0 */5 * * *'
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
     env:
-      NODE_ENV: 'production'
+      NODE_ENV: "production"
       NEXT_PUBLIC_PG_CONNECTION_STRING: ${{ secrets.NEXT_PUBLIC_PG_CONNECTION_STRING }}
-      
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to checkout
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to checkout
 
-    - name: Setup Node.js environment
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16'
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
 
-    - name: Cache Node.js modules
-      uses: actions/cache@v3
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-          
-    - name: Install dependencies
-      run: npm ci
+      - name: Install dependencies
+        run: bun install
 
-    - name: Run script
-      run: node scripts/update.mjs
-      env:
-        OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+      - name: Run script
+        run: bun scripts/update.mjs
+        env:
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
 
-    - name: Commit and push if it changed
-      run: |
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Last update on ${timestamp}" || exit 0
-        git push
-      env:
-        GIT_TOKEN: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to push
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Last update on ${timestamp}" || exit 0
+          git push
+        env:
+          GIT_TOKEN: ${{ secrets.ARBITER_TOKEN }} # Use the PAT to push
