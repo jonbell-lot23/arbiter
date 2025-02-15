@@ -91,7 +91,7 @@ const Home: NextPage<Props> = ({ posts }) => {
     setGroupedPosts(grouped);
   }, [posts]);
 
-  const handleArticleRender = (postId: bigint) => {
+  const handleArticleRender = (postId: number) => {
     let mostRecentViewedArticle = Number(
       localStorage.getItem("mostRecentViewedArticle") || "0"
     );
